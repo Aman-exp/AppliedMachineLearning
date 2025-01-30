@@ -1,0 +1,836 @@
+label,message,length,processed_message,token_count
+ham,NEFT Transaction with reference number  &lt;#&gt;  for Rs. &lt;DECIMAL&gt;  has been credited to the beneficiary account on  &lt;#&gt;  at  &lt;TIME&gt; : &lt;#&gt;,164,"['neft', 'transaction', 'reference', 'number', 'lt', 'gt', 'r', 'lt', 'decimal', 'gt', 'credited', 'beneficiary', 'account', 'lt', 'gt', 'lt', 'time', 'gt', 'lt', 'gt']",20
+ham,Raji..pls do me a favour. Pls convey my Birthday wishes to Nimya. Pls. Today is her birthday.,93,"['raji', 'pls', 'favour', 'pls', 'convey', 'birthday', 'wish', 'nimya', 'pls', 'today', 'birthday']",11
+ham,"How long before you get reply, just defer admission til next semester",69,"['long', 'get', 'reply', 'defer', 'admission', 'til', 'next', 'semester']",8
+ham,Maybe you should find something else to do instead???,53,"['maybe', 'find', 'something', 'else', 'instead']",5
+ham,"Huh... Hyde park not in mel ah, opps, got confused... Anyway, if tt's e best choice den we juz have to take it...",113,"['huh', 'hyde', 'park', 'mel', 'ah', 'opps', 'got', 'confused', 'anyway', 'tt', 'e', 'best', 'choice', 'den', 'juz', 'take']",16
+ham,You dont know you jabo me abi.,30,"['dont', 'know', 'jabo', 'abi']",4
+ham,K:)all the best:)congrats...,28,"['k', 'best', 'congrats']",3
+spam,"URGENT! Your mobile No 077xxx WON a £2,000 Bonus Caller Prize on 02/06/03! This is the 2nd attempt to reach YOU! Call 09066362206 ASAP! BOX97N7QP, 150ppm",153,"['urgent', 'mobile', 'bonus', 'caller', 'prize', 'attempt', 'reach', 'call', 'asap']",9
+ham,I WILL CAL YOU SIR. In meeting,30,"['cal', 'sir', 'meeting']",3
+ham,Ah you see. You have to be in the lingo. I will let you know wot on earth it is when has finished making it!,108,"['ah', 'see', 'lingo', 'let', 'know', 'wot', 'earth', 'finished', 'making']",9
+ham,How are you with moneY...as in to you...money aint a thing....how are you sha!,78,"['money', 'money', 'aint', 'thing', 'sha']",5
+ham,somewhere out there beneath the pale moon light someone think in of u some where out there where dreams come true... goodnite &amp; sweet dreams,144,"['somewhere', 'beneath', 'pale', 'moon', 'light', 'someone', 'think', 'u', 'dream', 'come', 'true', 'goodnite', 'amp', 'sweet', 'dream']",15
+ham,"Okay. No no, just shining on. That was meant to be signing, but that sounds better.",83,"['okay', 'shining', 'meant', 'signing', 'sound', 'better']",6
+ham,Guess he wants alone time. We could just show up and watch when they do..,73,"['guess', 'want', 'alone', 'time', 'could', 'show', 'watch']",7
+ham,Ha... Both of us doing e same thing. But i got tv 2 watch. U can thk of where 2 go tonight or u already haf smth in mind...,123,"['ha', 'u', 'e', 'thing', 'got', 'tv', 'watch', 'u', 'thk', 'go', 'tonight', 'u', 'already', 'haf', 'smth', 'mind']",16
+ham,"Sorry, I'll call later",22,"['sorry', 'call', 'later']",3
+ham,I've got it down to a tea. not sure which flavour,49,"['got', 'tea', 'sure', 'flavour']",4
+ham,"Sorry, I'll call later",22,"['sorry', 'call', 'later']",3
+ham,Did he just say somebody is named tampa,39,"['say', 'somebody', 'named', 'tampa']",4
+ham,U too...,8,['u'],1
+ham,This pain couldn't have come at a worse time.,45,"['pain', 'could', 'come', 'worse', 'time']",5
+ham,Sorry . I will be able to get to you. See you in the morning.,61,"['sorry', 'able', 'get', 'see', 'morning']",5
+ham,Sir send to group mail check it.,32,"['sir', 'send', 'group', 'mail', 'check']",5
+ham,U're welcome... Caught u using broken english again...,54,"['u', 'welcome', 'caught', 'u', 'using', 'broken', 'english']",7
+ham,Raviyog Peripherals bhayandar east,34,"['raviyog', 'peripheral', 'bhayandar', 'east']",4
+ham,Call me when you get the chance plz &lt;3,41,"['call', 'get', 'chance', 'plz', 'lt']",5
+ham,Hey... Very inconvenient for your sis a not huh?,48,"['hey', 'inconvenient', 'si', 'huh']",4
+ham,"OH RITE. WELL IM WITH MY BEST MATE PETE, WHO I WENT OUT WITH 4 A WEEK+ NOW WERE 2GEVA AGAIN. ITS BEEN LONGER THAN A WEEK.",121,"['oh', 'rite', 'well', 'im', 'best', 'mate', 'pete', 'went', 'longer', 'week']",10
+ham,Wow so healthy. Old airport rd lor. Cant thk of anything else. But i'll b bathing my dog later.,95,"['wow', 'healthy', 'old', 'airport', 'rd', 'lor', 'cant', 'thk', 'anything', 'else', 'b', 'bathing', 'dog', 'later']",14
+ham,Text her. If she doesnt reply let me know so i can have her log in,66,"['text', 'doesnt', 'reply', 'let', 'know', 'log']",6
+ham,aathi..where are you dear..,27,"['aathi', 'dear']",2
+ham,"SHIT BABE.. THASA BIT MESSED UP.YEH, SHE SHUDVETOLD U. DID URGRAN KNOW?NEWAY, ILLSPEAK 2 U2MORO WEN IM NOT ASLEEP...",116,"['shit', 'babe', 'thasa', 'bit', 'messed', 'shudvetold', 'u', 'urgran', 'know', 'neway', 'illspeak', 'wen', 'im', 'asleep']",14
+ham,2 laptop... I noe infra but too slow lar... I wan fast one,58,"['laptop', 'noe', 'infra', 'slow', 'lar', 'wan', 'fast', 'one']",8
+ham,Thanks for loving me so. You rock,33,"['thanks', 'loving', 'rock']",3
+spam,network operator. The service is free. For T & C's visit 80488.biz,66,"['network', 'operator', 'service', 'free', 'c', 'visit']",6
+ham,How come?,9,['come'],1
+spam,Urgent! Please call 09061743810 from landline. Your ABTA complimentary 4* Tenerife Holiday or #5000 cash await collection SAE T&Cs Box 326 CW25WX 150 ppm,153,"['urgent', 'please', 'call', 'landline', 'abta', 'complimentary', 'tenerife', 'holiday', 'cash', 'await', 'collection', 'sae', 'c', 'box', 'ppm']",15
+ham,"That day ü say ü cut ur hair at paragon, is it called hair sense? Do ü noe how much is a hair cut? ",99,"['day', 'ü', 'say', 'ü', 'cut', 'ur', 'hair', 'paragon', 'called', 'hair', 'sense', 'ü', 'noe', 'much', 'hair', 'cut']",16
+ham,Hey sexy buns! What of that day? No word from you this morning on YM ... :-( ... I think of you,95,"['hey', 'sexy', 'bun', 'day', 'word', 'morning', 'ym', 'think']",8
+ham,Its a big difference.  &lt;#&gt;  versus  &lt;#&gt;  every  &lt;#&gt; hrs,73,"['big', 'difference', 'lt', 'gt', 'versus', 'lt', 'gt', 'every', 'lt', 'gt', 'hr']",11
+ham,And miss vday the parachute and double coins??? U must not know me very well...,79,"['miss', 'vday', 'parachute', 'double', 'coin', 'u', 'must', 'know', 'well']",9
+ham,"wiskey Brandy Rum Gin Beer Vodka Scotch Shampain Wine ""KUDI""yarasu dhina vaazhthukkal. ..",89,"['wiskey', 'brandy', 'rum', 'gin', 'beer', 'vodka', 'scotch', 'shampain', 'wine', 'kudi', 'yarasu', 'dhina', 'vaazhthukkal']",13
+ham,When u wana see it then,23,"['u', 'wana', 'see']",3
+ham,Quite lor. But dun tell him wait he get complacent...,53,"['quite', 'lor', 'dun', 'tell', 'wait', 'get', 'complacent']",7
+ham,I dont have that much image in class.,37,"['dont', 'much', 'image', 'class']",4
+ham,I plane to give on this month end.,34,"['plane', 'give', 'month', 'end']",4
+spam,Dear Voucher Holder 2 claim your 1st class airport lounge passes when using Your holiday voucher call 08704439680. When booking quote 1st class x 2,147,"['dear', 'voucher', 'holder', 'claim', 'class', 'airport', 'lounge', 'pass', 'using', 'holiday', 'voucher', 'call', 'booking', 'quote', 'class', 'x']",16
+spam,Wanna have a laugh? Try CHIT-CHAT on your mobile now! Logon by txting the word: CHAT and send it to No: 8883 CM PO Box 4217 London W1A 6ZF 16+ 118p/msg rcvd,156,"['wan', 'na', 'laugh', 'try', 'mobile', 'logon', 'txting', 'word', 'chat', 'send', 'cm', 'po', 'box', 'london', 'rcvd']",15
+ham,Yo sorry was in the shower sup,30,"['yo', 'sorry', 'shower', 'sup']",4
+spam,"FreeMsg Hey U, i just got 1 of these video/pic fones, reply WILD to this txt & ill send U my pics, hurry up Im so bored at work xxx (18 150p/rcvd STOP2stop)",156,"['freemsg', 'hey', 'u', 'got', 'fones', 'reply', 'wild', 'txt', 'ill', 'send', 'u', 'pic', 'hurry', 'im', 'bored', 'work', 'xxx']",17
+ham,Ok lor.,7,"['ok', 'lor']",2
+spam,"If you don't, your prize will go to another customer. T&C at www.t-c.biz 18+ 150p/min Polo Ltd Suite 373 London W1J 6HL Please call back if busy",144,"['prize', 'go', 'another', 'customer', 'c', 'polo', 'ltd', 'suite', 'london', 'please', 'call', 'back', 'busy']",13
+spam,RT-KIng Pro Video Club>> Need help? info@ringtoneking.co.uk or call 08701237397 You must be 16+ Club credits redeemable at www.ringtoneking.co.uk! Enjoy!,153,"['pro', 'video', 'club', 'need', 'help', 'info', 'call', 'must', 'club', 'credit', 'redeemable', 'enjoy']",12
+spam,Sex up ur mobile with a FREE sexy pic of Jordan! Just text BABE to 88600. Then every wk get a sexy celeb! PocketBabe.co.uk 4 more pics. 16 £3/wk 087016248,154,"['sex', 'ur', 'mobile', 'free', 'sexy', 'pic', 'jordan', 'text', 'babe', 'every', 'wk', 'get', 'sexy', 'celeb', 'pic']",15
+ham,3 pa but not selected.,22,"['pa', 'selected']",2
+ham,Good morning princess! How are you?,35,"['good', 'morning', 'princess']",3
+ham,LOL ... Have you made plans for new years?,42,"['lol', 'made', 'plan', 'new', 'year']",5
+ham,Ok lor...,9,"['ok', 'lor']",2
+ham,"Aight, see you in a bit",23,"['aight', 'see', 'bit']",3
+ham,Hi Chachi tried calling u now unable to reach u .. Pl give me a missed cal once u c tiz msg  Kanagu,99,"['hi', 'chachi', 'tried', 'calling', 'u', 'unable', 'reach', 'u', 'pl', 'give', 'missed', 'cal', 'u', 'c', 'tiz', 'msg', 'kanagu']",17
+ham,The greatest test of courage on earth is to bear defeat without losing heart....gn tc,85,"['greatest', 'test', 'courage', 'earth', 'bear', 'defeat', 'without', 'losing', 'heart', 'gn', 'tc']",11
+ham,"Night sweet, sleep well! I've just been to see The Exorcism of Emily Rose and may never sleep again! Hugs and snogs! ",117,"['night', 'sweet', 'sleep', 'well', 'see', 'exorcism', 'emily', 'rose', 'may', 'never', 'sleep', 'hug', 'snogs']",13
+ham,I donno its in your genes or something,38,"['donno', 'gene', 'something']",3
+ham,I just cooked a rather nice salmon a la you,43,"['cooked', 'rather', 'nice', 'salmon', 'la']",5
+ham,do u think that any girl will propose u today by seing ur bloody funky shit fucking face...............asssssholeeee................,132,"['u', 'think', 'girl', 'propose', 'u', 'today', 'seing', 'ur', 'bloody', 'funky', 'shit', 'fucking', 'face', 'asssssholeeee']",14
+ham,Can you pls send me that company name. In saibaba colany,56,"['pls', 'send', 'company', 'name', 'saibaba', 'colany']",6
+ham,Please sen :)my kind advice :-)please come here and try:-),58,"['please', 'sen', 'kind', 'advice', 'please', 'come', 'try']",7
+ham,Haf u found him? I feel so stupid da v cam was working.,55,"['haf', 'u', 'found', 'feel', 'stupid', 'da', 'v', 'cam', 'working']",9
+ham,"sir, you will receive the account no another 1hr time. Sorry for the delay.",75,"['sir', 'receive', 'account', 'another', 'time', 'sorry', 'delay']",7
+ham,I'm not coming home 4 dinner.,29,"['coming', 'home', 'dinner']",3
+ham,Please dont say like that. Hi hi hi,35,"['please', 'dont', 'say', 'like', 'hi', 'hi', 'hi']",7
+ham,I like cheap! But i‘m happy to splash out on the wine if it makes you feel better..,83,"['like', 'cheap', 'happy', 'splash', 'wine', 'make', 'feel', 'better']",8
+spam,1000's of girls many local 2 u who r virgins 2 this & r ready 2 4fil ur every sexual need. Can u 4fil theirs? text CUTE to 69911(£1.50p. m),139,"['girl', 'many', 'local', 'u', 'r', 'virgin', 'r', 'ready', 'ur', 'every', 'sexual', 'need', 'u', 'text', 'cute']",15
+ham,Sary just need Tim in the bollox &it hurt him a lot so he tol me!,65,"['sary', 'need', 'tim', 'bollox', 'hurt', 'lot', 'tol']",7
+ham,Will do. Have a good day,24,"['good', 'day']",2
+ham,Omg it could snow here tonite!,30,"['omg', 'could', 'snow', 'tonite']",4
+ham,"Brainless Baby Doll..:-D;-), vehicle sariyag drive madoke barolla..",67,"['brainless', 'baby', 'doll', 'vehicle', 'sariyag', 'drive', 'madoke', 'barolla']",8
+ham,Yup i thk so until e shop closes lor.,37,"['yup', 'thk', 'e', 'shop', 'close', 'lor']",6
+ham,Its not the same here. Still looking for a job. How much do Ta's earn there.,76,"['still', 'looking', 'job', 'much', 'ta', 'earn']",6
+ham,I know you are serving. I mean what are you doing now.,54,"['know', 'serving', 'mean']",3
+spam,Adult 18 Content Your video will be with you shortly,52,"['adult', 'content', 'video', 'shortly']",4
+ham,"Well the weather in cali's great. But its complexities are great. You need a car to move freely, its taxes are outrageous. But all in all its a great place. The sad part is i missing home.",188,"['well', 'weather', 'cali', 'great', 'complexity', 'great', 'need', 'car', 'move', 'freely', 'tax', 'outrageous', 'great', 'place', 'sad', 'part', 'missing', 'home']",18
+ham,Ok lor. I ned 2 go toa payoh 4 a while 2 return smth u wan 2 send me there or wat?,82,"['ok', 'lor', 'ned', 'go', 'toa', 'payoh', 'return', 'smth', 'u', 'wan', 'send', 'wat']",12
+ham,"Aight, we'll head out in a few",30,"['aight', 'head']",2
+spam,"Download as many ringtones as u like no restrictions, 1000s 2 choose. U can even send 2 yr buddys. Txt Sir to 80082 £3 ",119,"['download', 'many', 'ringtones', 'u', 'like', 'restriction', 'choose', 'u', 'even', 'send', 'yr', 'buddy', 'txt', 'sir']",14
+ham,S.i think he is waste for rr..,30,"['think', 'waste', 'rr']",3
+ham,"Probably not, I'm almost out of gas and I get some cash tomorrow",64,"['probably', 'almost', 'gas', 'get', 'cash', 'tomorrow']",6
+ham,Wat makes some people dearer is not just de happiness dat u feel when u meet them but de pain u feel when u miss dem!!!,119,"['wat', 'make', 'people', 'dearer', 'de', 'happiness', 'dat', 'u', 'feel', 'u', 'meet', 'de', 'pain', 'u', 'feel', 'u', 'miss', 'dem']",18
+ham,Wherre's my boytoy ? :-(,24,"['wherre', 'boytoy']",2
+ham,And how's your husband.,23,['husband'],1
+ham,"Fyi I'm taking a quick shower, be at epsilon in like  &lt;#&gt;  min",68,"['fyi', 'taking', 'quick', 'shower', 'epsilon', 'like', 'lt', 'gt', 'min']",9
+ham,Ambrith..madurai..met u in arun dha marrge..remembr?,52,"['ambrith', 'madurai', 'met', 'u', 'arun', 'dha', 'marrge', 'remembr']",8
+ham,Yup. Wun believe wat? U really neva c e msg i sent shuhui?,58,"['yup', 'wun', 'believe', 'wat', 'u', 'really', 'neva', 'c', 'e', 'msg', 'sent', 'shuhui']",12
+ham,"Well, i'm glad you didn't find it totally disagreeable ... Lol",62,"['well', 'glad', 'find', 'totally', 'disagreeable', 'lol']",6
+ham,Try neva mate!!,15,"['try', 'neva', 'mate']",3
+ham,Lol ok ill try to send. Be warned Sprint is dead slow. You'll prolly get it tomorrow,84,"['lol', 'ok', 'ill', 'try', 'send', 'warned', 'sprint', 'dead', 'slow', 'prolly', 'get', 'tomorrow']",12
+ham,If we win its really no 1 side for long time.,45,"['win', 'really', 'side', 'long', 'time']",5
+ham,"This is one of the days you have a billion classes, right?",58,"['one', 'day', 'billion', 'class', 'right']",5
+ham,Ya but it cant display internal subs so i gotta extract them,60,"['ya', 'cant', 'display', 'internal', 'sub', 'got', 'ta', 'extract']",8
+ham,"A Boy loved a gal. He propsd bt she didnt mind. He gv lv lttrs, Bt her frnds threw thm. Again d boy decided 2 aproach d gal , dt time a truck was speeding towards d gal. Wn it was about 2 hit d girl,d boy ran like hell n saved her. She asked 'hw cn u run so fast?' D boy replied ""Boost is d secret of my energy"" n instantly d girl shouted ""our energy"" n Thy lived happily 2gthr drinking boost evrydy Moral of d story:- I hv free msgs:D;): gud ni8",446,"['boy', 'loved', 'gal', 'propsd', 'bt', 'didnt', 'mind', 'gv', 'lv', 'lttrs', 'bt', 'frnds', 'threw', 'thm', 'boy', 'decided', 'aproach', 'gal', 'dt', 'time', 'truck', 'speeding', 'towards', 'gal', 'wn', 'hit', 'girl', 'boy', 'ran', 'like', 'hell', 'n', 'saved', 'asked', 'cn', 'u', 'run', 'fast', 'boy', 'replied', 'boost', 'secret', 'energy', 'n', 'instantly', 'girl', 'shouted', 'energy', 'n', 'thy', 'lived', 'happily', 'drinking', 'boost', 'evrydy', 'moral', 'story', 'hv', 'free', 'msg', 'gud']",61
+ham,Hows the street where the end of library walk is?,49,"['hows', 'street', 'end', 'library', 'walk']",5
+ham,I cant pick the phone right now. Pls send a message,51,"['cant', 'pick', 'phone', 'right', 'pls', 'send', 'message']",7
+ham,Aiyar sorry lor forgot 2 tell u...,34,"['aiyar', 'sorry', 'lor', 'forgot', 'tell', 'u']",6
+ham,"My friend, she's studying at warwick, we've planned to go shopping and to concert tmw, but it may be canceled, havn't seen  for ages, yeah we should get together sometime!",171,"['friend', 'studying', 'warwick', 'planned', 'go', 'shopping', 'concert', 'tmw', 'may', 'canceled', 'hav', 'seen', 'age', 'yeah', 'get', 'together', 'sometime']",17
+ham,I cant keep talking to people if am not sure i can pay them if they agree to price. So pls tell me what you want to really buy and how much you are willing to pay,162,"['cant', 'keep', 'talking', 'people', 'sure', 'pay', 'agree', 'price', 'pls', 'tell', 'want', 'really', 'buy', 'much', 'willing', 'pay']",16
+ham,Have your lunch and come quickly and open the door:),52,"['lunch', 'come', 'quickly', 'open', 'door']",5
+ham,"Haha good to hear, I'm officially paid and on the market for an 8th",67,"['haha', 'good', 'hear', 'officially', 'paid', 'market']",6
+ham,Been up to ne thing interesting. Did you have a good birthday? When are u wrking nxt? I started uni today.,106,"['ne', 'thing', 'interesting', 'good', 'birthday', 'u', 'wrking', 'nxt', 'started', 'uni', 'today']",11
+ham,Dude just saw a parked car with its sunroof popped up. Sux,58,"['dude', 'saw', 'parked', 'car', 'sunroof', 'popped', 'sux']",7
+ham,i thought we were doing a king of the hill thing there.,55,"['thought', 'king', 'hill', 'thing']",4
+spam,Todays Vodafone numbers ending with 4882 are selected to a receive a £350 award. If your number matches call 09064019014 to receive your £350 award.,148,"['today', 'vodafone', 'number', 'ending', 'selected', 'receive', 'award', 'number', 'match', 'call', 'receive', 'award']",12
+ham,"Sorry, I'll call later",22,"['sorry', 'call', 'later']",3
+ham,K..k...from tomorrow onwards started ah?,40,"['k', 'k', 'tomorrow', 'onwards', 'started', 'ah']",6
+ham,"Good afternoon, my love ! Any job prospects ? Are you missing me ? What do you do ? Are you being lazy and bleak, hmmm ? Or happy and filled with my love ?",155,"['good', 'afternoon', 'love', 'job', 'prospect', 'missing', 'lazy', 'bleak', 'hmmm', 'happy', 'filled', 'love']",12
+ham,"Piggy, r u awake? I bet u're still sleeping. I'm going 4 lunch now...",69,"['piggy', 'r', 'u', 'awake', 'bet', 'u', 'still', 'sleeping', 'going', 'lunch']",10
+ham,"That's fine, I'll bitch at you about it later then",50,"['fine', 'bitch', 'later']",3
+ham,Hurt me... Tease me... Make me cry... But in the end of my life when i die plz keep one rose on my grave and say STUPID I MISS U.. HAVE A NICE DAY BSLVYL,153,"['hurt', 'tease', 'make', 'cry', 'end', 'life', 'die', 'plz', 'keep', 'one', 'rose', 'grave', 'say', 'stupid', 'miss', 'u', 'nice', 'day', 'bslvyl']",19
+ham,We are both fine. Thanks,24,"['fine', 'thanks']",2
+spam,"Hi ya babe x u 4goten bout me?' scammers getting smart..Though this is a regular vodafone no, if you respond you get further prem rate msg/subscription. Other nos used also. Beware!",181,"['hi', 'ya', 'babe', 'x', 'u', 'bout', 'scammer', 'getting', 'smart', 'though', 'regular', 'vodafone', 'respond', 'get', 'prem', 'rate', 'no', 'used', 'also', 'beware']",20
+ham,Love has one law; Make happy the person you love. In the same way friendship has one law; Never make ur friend feel alone until you are alive.... Gud night,155,"['love', 'one', 'law', 'make', 'happy', 'person', 'love', 'way', 'friendship', 'one', 'law', 'never', 'make', 'ur', 'friend', 'feel', 'alone', 'alive', 'gud', 'night']",20
+ham,I'm really sorry I lit your hair on fire,40,"['really', 'sorry', 'lit', 'hair', 'fire']",5
+ham,"I'm used to it. I just hope my agents don't drop me since i've only booked a few things this year. This whole me in boston, them in nyc was an experiment.",154,"['used', 'hope', 'agent', 'drop', 'since', 'booked', 'thing', 'year', 'whole', 'boston', 'nyc', 'experiment']",12
+ham,With my sis lor... We juz watched italian job.,46,"['si', 'lor', 'juz', 'watched', 'italian', 'job']",6
+ham,Oh gei. That happend to me in tron. Maybe ill dl it in 3d when its out,70,"['oh', 'gei', 'happend', 'tron', 'maybe', 'ill', 'dl']",7
+ham,Just re read it and I have no shame but tell me how he takes it and if he runs I will blame u 4 ever!! Not really 4 ever just a long time ,138,"['read', 'shame', 'tell', 'take', 'run', 'blame', 'u', 'ever', 'really', 'ever', 'long', 'time']",12
+ham,The monthly amount is not that terrible and you will not pay anything till 6months after finishing school.,106,"['monthly', 'amount', 'terrible', 'pay', 'anything', 'till', 'finishing', 'school']",8
+ham,I want to tel u one thing u should not mistake me k THIS IS THE MESSAGE THAT YOU SENT:),87,"['want', 'tel', 'u', 'one', 'thing', 'u', 'mistake', 'k', 'message', 'sent']",10
+ham,I don't run away frm u... I walk slowly &amp; it kills me that u don't care enough to stop me...,96,"['run', 'away', 'frm', 'u', 'walk', 'slowly', 'amp', 'kill', 'u', 'care', 'enough', 'stop']",12
+ham,You know there is. I shall speak to you in  &lt;#&gt;  minutes then,67,"['know', 'shall', 'speak', 'lt', 'gt', 'minute']",6
+ham,The search 4 happiness is 1 of d main sources of unhappiness! Accept life the way it comes! U will find happiness in every moment u live.,137,"['search', 'happiness', 'main', 'source', 'unhappiness', 'accept', 'life', 'way', 'come', 'u', 'find', 'happiness', 'every', 'moment', 'u', 'live']",16
+ham,Onum ela pa. Normal than.,25,"['onum', 'ela', 'normal']",3
+ham,"FRAN I DECIDED 2 GO N E WAY IM COMPLETELY BROKE AN KNACKERED I GOT UP BOUT 3 C U 2MRW LOVE JANX P.S THIS IS MY DADS FONE, -NO CREDIT",132,"['fran', 'decided', 'go', 'n', 'e', 'way', 'im', 'completely', 'broke', 'knackered', 'got', 'bout', 'c', 'u', 'love', 'janx', 'dad', 'fone', 'credit']",19
+ham,Match started.india  &lt;#&gt;  for 2,37,"['match', 'lt', 'gt']",3
+ham,What year. And how many miles.,30,"['year', 'many', 'mile']",3
+ham,I wil be there with in  &lt;#&gt;  minutes. Got any space,57,"['wil', 'lt', 'gt', 'minute', 'got', 'space']",6
+ham,When are you going to ride your bike?,37,"['going', 'ride', 'bike']",3
+ham,"How long has it been since you screamed, princess?",50,"['long', 'since', 'screamed', 'princess']",4
+ham,ok....take care.umma to you too...,34,"['ok', 'take']",2
+ham,U can call now...,17,"['u', 'call']",2
+ham,Horrible bf... I now v hungry...,32,"['horrible', 'bf', 'v', 'hungry']",4
+ham,Huh so late... Fr dinner?,25,"['huh', 'late', 'fr', 'dinner']",4
+ham,I'm going 4 lunch now wif my family then aft dat i go str 2 orchard lor.,72,"['going', 'lunch', 'wif', 'family', 'aft', 'dat', 'go', 'str', 'orchard', 'lor']",10
+ham,"Oh, i will get paid. The most outstanding one is for a commercial i did for Hasbro...in AUGUST! They made us jump through so many hoops to get paid. Still not.",159,"['oh', 'get', 'paid', 'outstanding', 'one', 'commercial', 'hasbro', 'august', 'made', 'u', 'jump', 'many', 'hoop', 'get', 'paid', 'still']",16
+ham,"The last thing i ever wanted to do was hurt you. And i didn't think it would have. You'd laugh, be embarassed, delete the tag and keep going. But as far as i knew, it wasn't even up. The fact that you even felt like i would do it to hurt you shows you really don't know me at all. It was messy wednesday, but it wasn't bad. The problem i have with it is you HAVE the time to clean it, but you choose not to. You skype, you take pictures, you sleep, you want to go out. I don't mind a few things here and there, but when you don't make the bed, when you throw laundry on top of it, when i can't have a friend in the house because i'm embarassed that there's underwear and bras strewn on the bed, pillows on the floor, that's something else. You used to be good about at least making the bed.",790,"['last', 'thing', 'ever', 'wanted', 'hurt', 'think', 'would', 'laugh', 'embarassed', 'delete', 'tag', 'keep', 'going', 'far', 'knew', 'even', 'fact', 'even', 'felt', 'like', 'would', 'hurt', 'show', 'really', 'know', 'messy', 'wednesday', 'bad', 'problem', 'time', 'clean', 'choose', 'skype', 'take', 'picture', 'sleep', 'want', 'go', 'mind', 'thing', 'make', 'bed', 'throw', 'laundry', 'top', 'ca', 'friend', 'house', 'embarassed', 'underwear', 'bra', 'strewn', 'bed', 'pillow', 'floor', 'something', 'else', 'used', 'good', 'least', 'making', 'bed']",62
+spam,Customer Loyalty Offer:The NEW Nokia6650 Mobile from ONLY £10 at TXTAUCTION! Txt word: START to No: 81151 & get yours Now! 4T&Ctxt TC 150p/MTmsg,144,"['customer', 'loyalty', 'offer', 'new', 'mobile', 'txtauction', 'txt', 'word', 'start', 'get', 'ctxt', 'tc']",12
+ham,My uncles in Atlanta. Wish you guys a great semester.,53,"['uncle', 'atlanta', 'wish', 'guy', 'great', 'semester']",6
+ham,Taka lor. Wat time u wan 2 come n look 4 us?,44,"['taka', 'lor', 'wat', 'time', 'u', 'wan', 'come', 'n', 'look', 'u']",10
+ham,Nope i'll come online now..,27,"['nope', 'come', 'online']",3
+ham,Daddy will take good care of you :),35,"['daddy', 'take', 'good', 'care']",4
+ham,We are pleased to inform that your application for Airtel Broadband is processed successfully. Your installation will happen within 3 days.,139,"['pleased', 'inform', 'application', 'airtel', 'broadband', 'processed', 'successfully', 'installation', 'happen', 'within', 'day']",11
+ham,"Jay told me already, will do",28,"['jay', 'told', 'already']",3
+ham,"Hi frnd, which is best way to avoid missunderstding wit our beloved one's?",74,"['hi', 'frnd', 'best', 'way', 'avoid', 'missunderstding', 'wit', 'beloved', 'one']",9
+ham,"Yetunde, i'm sorry but moji and i seem too busy to be able to go shopping. Can you just please find some other way to get what you wanted us to get. Please forgive me. You can reply free via yahoo messenger.",207,"['yetunde', 'sorry', 'moji', 'seem', 'busy', 'able', 'go', 'shopping', 'please', 'find', 'way', 'get', 'wanted', 'u', 'get', 'please', 'forgive', 'reply', 'free', 'via', 'yahoo', 'messenger']",22
+ham,"Some friends want me to drive em someplace, probably take a while",65,"['friend', 'want', 'drive', 'em', 'someplace', 'probably', 'take']",7
+ham,"Helloooo... Wake up..! ""Sweet"" ""morning"" ""welcomes"" ""You"" ""Enjoy"" ""This Day"" ""with full of joy"".. ""GUD MRNG"".",109,"['helloooo', 'wake', 'sweet', 'morning', 'welcome', 'enjoy', 'day', 'full', 'joy', 'gud', 'mrng']",11
+ham,And smile for me right now as you go and the world will wonder what you are smiling about and think your crazy and keep away from you ... *grins*,145,"['smile', 'right', 'go', 'world', 'wonder', 'smiling', 'think', 'crazy', 'keep', 'away', 'grin']",11
+ham,Still in customer place,23,"['still', 'customer', 'place']",3
+ham,Okie ü wan meet at bishan? Cos me at bishan now. I'm not driving today.,71,"['okie', 'ü', 'wan', 'meet', 'bishan', 'co', 'bishan', 'driving', 'today']",9
+ham,Haf u eaten? Wat time u wan me 2 come?,38,"['haf', 'u', 'eaten', 'wat', 'time', 'u', 'wan', 'come']",8
+ham,I got a call from a landline number. . . I am asked to come to anna nagar . . . I will go in the afternoon,106,"['got', 'call', 'landline', 'number', 'asked', 'come', 'anna', 'nagar', 'go', 'afternoon']",10
+spam,"Congrats! 2 mobile 3G Videophones R yours. call 09063458130 now! videochat wid your mates, play java games, Dload polyPH music, noline rentl.",141,"['congrats', 'mobile', 'videophones', 'r', 'call', 'videochat', 'wid', 'mate', 'play', 'java', 'game', 'dload', 'polyph', 'music', 'noline', 'rentl']",16
+ham,"No, its true..k,Do u knw dis no. &lt;#&gt; ?",44,"['true', 'k', 'u', 'knw', 'dis', 'lt', 'gt']",7
+ham,Havent still waitin as usual... Ü come back sch oredi?,54,"['havent', 'still', 'waitin', 'usual', 'ü', 'come', 'back', 'sch', 'oredi']",9
+ham,Water logging in desert. Geoenvironmental implications.,55,"['water', 'logging', 'desert', 'geoenvironmental', 'implication']",5
+spam,"HOT LIVE FANTASIES call now 08707509020 Just 20p per min NTT Ltd, PO Box 1327 Croydon CR9 5WB 0870..k",101,"['hot', 'live', 'fantasy', 'call', 'per', 'min', 'ntt', 'ltd', 'po', 'box', 'croydon', 'k']",12
+spam,Free entry in 2 a weekly comp for a chance to win an ipod. Txt POD to 80182 to get entry (std txt rate) T&C's apply 08452810073 for details 18+,143,"['free', 'entry', 'weekly', 'comp', 'chance', 'win', 'ipod', 'txt', 'pod', 'get', 'entry', 'std', 'txt', 'rate', 'c', 'apply', 'detail']",17
+ham,Yeah I imagine he would be really gentle. Unlike the other docs who treat their patients like turkeys.,102,"['yeah', 'imagine', 'would', 'really', 'gentle', 'unlike', 'doc', 'treat', 'patient', 'like', 'turkey']",11
+ham,"I'll get there at 3, unless you guys want me to come some time sooner",69,"['get', 'unless', 'guy', 'want', 'come', 'time', 'sooner']",7
+ham,Boooo you always work. Just quit.,33,"['boooo', 'always', 'work', 'quit']",4
+ham,K do I need a login or anything,31,"['k', 'need', 'login', 'anything']",4
+ham,Just sent it. So what type of food do you like?,47,"['sent', 'type', 'food', 'like']",4
+ham,Here got ur favorite oyster... N got my favorite sashimi... Ok lar i dun say already... Wait ur stomach start rumbling...,121,"['got', 'ur', 'favorite', 'oyster', 'n', 'got', 'favorite', 'sashimi', 'ok', 'lar', 'dun', 'say', 'already', 'wait', 'ur', 'stomach', 'start', 'rumbling']",18
+ham,I am getting threats from your sales executive Shifad as i raised complaint against him. Its an official message.,113,"['getting', 'threat', 'sale', 'executive', 'shifad', 'raised', 'complaint', 'official', 'message']",9
+ham,"God picked up a flower and dippeditinaDEW, lovingly touched itwhichturnedinto u, and the he gifted tomeandsaid,THIS FRIEND IS 4U",128,"['god', 'picked', 'flower', 'dippeditinadew', 'lovingly', 'touched', 'itwhichturnedinto', 'u', 'gifted', 'tomeandsaid', 'friend']",11
+ham,Hi msg me:)i'm in office..,26,"['hi', 'msg', 'office']",3
+ham,When can ü come out?,20,"['ü', 'come']",2
+ham,Happy New year my dear brother. I really do miss you. Just got your number and decided to send you this text wishing you only happiness. Abiola,143,"['happy', 'new', 'year', 'dear', 'brother', 'really', 'miss', 'got', 'number', 'decided', 'send', 'text', 'wishing', 'happiness', 'abiola']",15
+ham,O ic lol. Should play 9 doors sometime yo,41,"['ic', 'lol', 'play', 'door', 'sometime', 'yo']",6
+ham,Wat makes some people dearer is not just de happiness dat u feel when u meet them but de pain u feel when u miss dem!!!,119,"['wat', 'make', 'people', 'dearer', 'de', 'happiness', 'dat', 'u', 'feel', 'u', 'meet', 'de', 'pain', 'u', 'feel', 'u', 'miss', 'dem']",18
+ham,I was gonna ask you lol but i think its at 7,44,"['gon', 'na', 'ask', 'lol', 'think']",5
+spam,Not heard from U4 a while. Call me now am here all night with just my knickers on. Make me beg for it like U did last time 01223585236 XX Luv Nikiyu4.net,153,"['heard', 'call', 'night', 'knickers', 'make', 'beg', 'like', 'u', 'last', 'time', 'xx', 'luv']",12
+ham,"I sent my scores to sophas and i had to do secondary application for a few schools. I think if you are thinking of applying, do a research on cost also. Contact joke ogunrinde, her school is one me the less expensive ones",221,"['sent', 'score', 'sophas', 'secondary', 'application', 'school', 'think', 'thinking', 'applying', 'research', 'cost', 'also', 'contact', 'joke', 'ogunrinde', 'school', 'one', 'less', 'expensive', 'one']",20
+ham,I have printed it oh. So  &lt;#&gt;  come upstairs,50,"['printed', 'oh', 'lt', 'gt', 'come', 'upstairs']",6
+ham,Arun can u transfr me d amt,27,"['arun', 'u', 'transfr', 'amt']",4
+ham,cool. We will have fun practicing making babies!,48,"['cool', 'fun', 'practicing', 'making', 'baby']",5
+spam,PRIVATE! Your 2003 Account Statement for shows 800 un-redeemed S. I. M. points. Call 08715203694 Identifier Code: 40533 Expires 31/10/04,136,"['private', 'account', 'statement', 'show', 'point', 'call', 'identifier', 'code', 'expires']",9
+ham,MMM ... Fuck .... Merry Christmas to me,39,"['mmm', 'fuck', 'merry', 'christmas']",4
+ham,&lt;#&gt;  w jetton ave if you forgot,37,"['lt', 'gt', 'w', 'jetton', 'ave', 'forgot']",6
+ham,Ha... U jus ate honey ar? So sweet...,37,"['ha', 'u', 'jus', 'ate', 'honey', 'ar', 'sweet']",7
+ham,No i am not having not any movies in my laptop,46,"['movie', 'laptop']",2
+ham,I am taking you for italian food. How about a pretty dress with no panties? :),78,"['taking', 'italian', 'food', 'pretty', 'dress', 'panty']",6
+ham,No message..no responce..what happend?,38,"['message', 'responce', 'happend']",3
+ham,Get ready to put on your excellent sub face :),46,"['get', 'ready', 'put', 'excellent', 'sub', 'face']",6
+ham,No it was cancelled yeah baby! Well that sounds important so i understand my darlin give me a ring later on this fone love Kate x,129,"['cancelled', 'yeah', 'baby', 'well', 'sound', 'important', 'understand', 'darlin', 'give', 'ring', 'later', 'fone', 'love', 'kate', 'x']",15
+ham,"Nice. Wait...should you be texting right now? I'm not gonna pay your ticket, ya know!",85,"['nice', 'wait', 'texting', 'right', 'gon', 'na', 'pay', 'ticket', 'ya', 'know']",10
+ham,I think i am disturbing her da,30,"['think', 'disturbing', 'da']",3
+ham,Ill be there on  &lt;#&gt;  ok.,31,"['ill', 'lt', 'gt', 'ok']",4
+ham,Waiting in e car 4 my mum lor. U leh? Reach home already?,57,"['waiting', 'e', 'car', 'mum', 'lor', 'u', 'leh', 'reach', 'home', 'already']",10
+ham,Nothin comes to my mind. Ü help me buy hanger lor. Ur laptop not heavy?,71,"['nothin', 'come', 'mind', 'ü', 'help', 'buy', 'hanger', 'lor', 'ur', 'laptop', 'heavy']",11
+ham,Ok lor.,7,"['ok', 'lor']",2
+ham,Me too. Mark is taking forever to pick up my prescription and the pain is coming back.,86,"['mark', 'taking', 'forever', 'pick', 'prescription', 'pain', 'coming', 'back']",8
+ham,Ü thk of wat to eat tonight.,28,"['ü', 'thk', 'wat', 'eat', 'tonight']",5
+ham,Im just wondering what your doing right now?,44,"['im', 'wondering', 'right']",3
+spam,"Xmas Offer! Latest Motorola, SonyEricsson & Nokia & FREE Bluetooth or DVD! Double Mins & 1000 Txt on Orange. Call MobileUpd8 on 08000839402 or call2optout/4QF2",159,"['xmas', 'offer', 'latest', 'motorola', 'sonyericsson', 'nokia', 'free', 'bluetooth', 'dvd', 'double', 'min', 'txt', 'orange', 'call']",14
+ham,Yep then is fine 7.30 or 8.30 for ice age.,42,"['yep', 'fine', 'ice', 'age']",4
+ham,We have all rounder:)so not required:),38,"['rounder', 'required']",2
+ham,Wat time r ü going to xin's hostel?,35,"['wat', 'time', 'r', 'ü', 'going', 'xin', 'hostel']",7
+ham,Watching tv lor... Y she so funny we bluff her 4 wat. Izzit because she thk it's impossible between us?,103,"['watching', 'tv', 'lor', 'funny', 'bluff', 'wat', 'izzit', 'thk', 'impossible', 'u']",10
+ham,Ok lor... Or u wan me go look 4 u?,34,"['ok', 'lor', 'u', 'wan', 'go', 'look', 'u']",7
+spam,"FreeMsg Hey there darling it's been 3 week's now and no word back! I'd like some fun you up for it still? Tb ok! XxX std chgs to send, £1.50 to rcv",147,"['freemsg', 'hey', 'darling', 'week', 'word', 'back', 'like', 'fun', 'still', 'tb', 'ok', 'xxx', 'std', 'chgs', 'send', 'rcv']",16
+ham,"Sorry, I can't help you on this.",32,"['sorry', 'ca', 'help']",3
+ham,Think you sent the text to the home phone. That cant display texts. If you still want to send it his number is,110,"['think', 'sent', 'text', 'home', 'phone', 'cant', 'display', 'text', 'still', 'want', 'send', 'number']",12
+ham,Should I tell my friend not to come round til like  &lt;#&gt; ish?,66,"['tell', 'friend', 'come', 'round', 'til', 'like', 'lt', 'gt', 'ish']",9
+ham,My love ... I hope your not doing anything drastic. Don't you dare sell your pc or your phone ...,97,"['love', 'hope', 'anything', 'drastic', 'dare', 'sell', 'pc', 'phone']",8
+spam,"Hungry gay guys feeling hungry and up 4 it, now. Call 08718730555 just 10p/min. To stop texts call 08712460324 (10p/min)",120,"['hungry', 'gay', 'guy', 'feeling', 'hungry', 'call', 'stop', 'text', 'call']",9
+ham,I want to sent  &lt;#&gt; mesages today. Thats y. Sorry if i hurts,66,"['want', 'sent', 'lt', 'gt', 'mesages', 'today', 'thats', 'sorry', 'hurt']",9
+ham,Wat makes some people dearer is not just de happiness dat u feel when u meet them but de pain u feel when u miss dem!!!,119,"['wat', 'make', 'people', 'dearer', 'de', 'happiness', 'dat', 'u', 'feel', 'u', 'meet', 'de', 'pain', 'u', 'feel', 'u', 'miss', 'dem']",18
+ham,Bbq this sat at mine from 6ish. Ur welcome 2 come,49,"['bbq', 'sat', 'mine', 'ur', 'welcome', 'come']",6
+ham,Stop the story. I've told him i've returned it and he's saying i should not re order it.,88,"['stop', 'story', 'told', 'returned', 'saying', 'order']",6
+ham,S now only i took tablets . Reaction morning only.,50,"['took', 'tablet', 'reaction', 'morning']",4
+ham,Ok ill tell the company,23,"['ok', 'ill', 'tell', 'company']",4
+ham,Also that chat was awesome but don't make it regular unless you can see her in person,85,"['also', 'chat', 'awesome', 'make', 'regular', 'unless', 'see', 'person']",8
+ham,K..k..i'm also fine:)when will you complete the course?,55,"['k', 'k', 'also', 'fine', 'complete', 'course']",6
+ham,"Sorry pa, i dont knw who ru pa?",31,"['sorry', 'pa', 'dont', 'knw', 'ru', 'pa']",6
+spam,"SMS SERVICES. for your inclusive text credits, pls goto www.comuk.net login= 3qxj9 unsubscribe with STOP, no extra charge. help 08702840625.COMUK. 220-CM2 9AE",158,"['sm', 'service', 'inclusive', 'text', 'credit', 'pls', 'goto', 'unsubscribe', 'stop', 'extra', 'charge', 'help']",12
+ham,"1) Go to write msg 2) Put on Dictionary mode 3)Cover the screen with hand, 4)Press  &lt;#&gt; . 5)Gently remove Ur hand.. Its interesting..:)",141,"['go', 'write', 'msg', 'put', 'dictionary', 'mode', 'cover', 'screen', 'hand', 'press', 'lt', 'gt', 'gently', 'remove', 'ur', 'hand', 'interesting']",17
+ham,Ok then u tell me wat time u coming later lor.,46,"['ok', 'u', 'tell', 'wat', 'time', 'u', 'coming', 'later', 'lor']",9
+ham,K:)i will give my kvb acc details:),35,"['k', 'give', 'kvb', 'acc', 'detail']",5
+ham,No let me do the math. Your not good at it.,43,"['let', 'math', 'good']",3
+ham,I'm leaving my house now...,27,"['leaving', 'house']",2
+ham,Where are you?when wil you reach here?,38,"['wil', 'reach']",2
+ham,Hey what how about your project. Started aha da.,48,"['hey', 'project', 'started', 'aha', 'da']",5
+ham,Huh i cant thk of more oredi how many pages do we have?,55,"['huh', 'cant', 'thk', 'oredi', 'many', 'page']",6
+ham,K I'll call you when I'm close,30,"['k', 'call', 'close']",3
+spam,Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send CASH to 86688 only 150p/msg. CC: 08708800282 HG/Suite342/2Lands Row/W1J6HL,148,"['ur', 'currently', 'pound', 'maximize', 'ur', 'send', 'cash', 'cc']",8
+spam,"HOT LIVE FANTASIES call now 08707500020 Just 20p per min NTT Ltd, PO Box 1327 Croydon CR9 5WB 0870 is a national rate call",122,"['hot', 'live', 'fantasy', 'call', 'per', 'min', 'ntt', 'ltd', 'po', 'box', 'croydon', 'national', 'rate', 'call']",14
+ham,That is wondarfull song,23,"['wondarfull', 'song']",2
+spam,UR awarded a City Break and could WIN a £200 Summer Shopping spree every WK. Txt STORE to 88039 . SkilGme. TsCs087147403231Winawk!Age16 £1.50perWKsub,149,"['ur', 'awarded', 'city', 'break', 'could', 'win', 'summer', 'shopping', 'spree', 'every', 'wk', 'txt', 'store', 'skilgme']",14
+ham,HIYA STU WOT U UP 2.IM IN SO MUCH TRUBLE AT HOME AT MOMENT EVONE HATES ME EVEN U! WOT THE HELL AV I DONE NOW? Y WONT U JUST TELL ME TEXT BCK PLEASE LUV DAN ,156,"['hiya', 'stu', 'wot', 'u', 'much', 'truble', 'home', 'moment', 'evone', 'hate', 'even', 'u', 'wot', 'hell', 'av', 'done', 'wont', 'u', 'tell', 'text', 'bck', 'please', 'luv', 'dan']",24
+ham,Why you Dint come with us.,26,"['dint', 'come', 'u']",3
+ham,Come to my home for one last time i wont do anything. Trust me.,63,"['come', 'home', 'one', 'last', 'time', 'wont', 'anything', 'trust']",8
+ham,"Good! No, don‘t need any receipts—well done! (…) Yes, please tell . What‘s her number, i could ring her",103,"['good', 'need', 'done', 'yes', 'please', 'tell', 'number', 'could', 'ring']",9
+ham,No:-)i got rumour that you going to buy apartment in chennai:-),63,"['got', 'rumour', 'going', 'buy', 'apartment', 'chennai']",6
+ham,1. Tension face 2. Smiling face 3. Waste face 4. Innocent face 5.Terror face 6.Cruel face 7.Romantic face 8.Lovable face 9.decent face  &lt;#&gt; .joker face.,158,"['tension', 'face', 'smiling', 'face', 'waste', 'face', 'innocent', 'face', 'face', 'face', 'face', 'face', 'face', 'lt', 'gt', 'face']",16
+spam,"U can WIN £100 of Music Gift Vouchers every week starting NOW Txt the word DRAW to 87066 TsCs www.ldew.com SkillGame,1Winaweek, age16.150ppermessSubscription",157,"['u', 'win', 'music', 'gift', 'voucher', 'every', 'week', 'starting', 'txt', 'word', 'draw', 'tscs']",12
+ham,Misplaced your number and was sending texts to your old number. Wondering why i've not heard from you this year. All the best in your mcat. Got this number from my atlanta friends,179,"['misplaced', 'number', 'sending', 'text', 'old', 'number', 'wondering', 'heard', 'year', 'best', 'mcat', 'got', 'number', 'atlanta', 'friend']",15
+ham,"Oh ! A half hour is much longer in Syria than Canada, eh ? Wow you must get SO much more work done in a day than us with all that extra time ! *grins*",150,"['oh', 'half', 'hour', 'much', 'longer', 'syria', 'canada', 'eh', 'wow', 'must', 'get', 'much', 'work', 'done', 'day', 'u', 'extra', 'time', 'grin']",19
+ham,Dont hesitate. You know this is the second time she has had weakness like that. So keep i notebook of what she eat and did the day before or if anything changed the day before so that we can be sure its nothing,210,"['dont', 'hesitate', 'know', 'second', 'time', 'weakness', 'like', 'keep', 'notebook', 'eat', 'day', 'anything', 'changed', 'day', 'sure', 'nothing']",16
+spam,83039 62735=£450 UK Break AccommodationVouchers terms & conditions apply. 2 claim you mustprovide your claim number which is 15541 ,131,"['uk', 'break', 'accommodationvouchers', 'term', 'condition', 'apply', 'claim', 'mustprovide', 'claim', 'number']",10
+ham,Prepare to be pleasured :),26,"['prepare', 'pleasured']",2
+ham,Thankyou so much for the call. I appreciate your care.,54,"['thankyou', 'much', 'call', 'appreciate', 'care']",5
+ham,Cab is available.they pick up and drop at door steps.,53,"['cab', 'pick', 'drop', 'door', 'step']",5
+ham,I only haf msn. It's yijue@hotmail.com,38,"['haf', 'msn', 'yijue']",3
+ham,As in i want custom officer discount oh.,40,"['want', 'custom', 'officer', 'discount', 'oh']",5
+ham,"Best msg: It's hard to be with a person, when u know that one more step foward will make u fall in love.. &amp; One step back can ruin ur friendship.. good night:-) ...",168,"['best', 'msg', 'hard', 'person', 'u', 'know', 'one', 'step', 'foward', 'make', 'u', 'fall', 'love', 'amp', 'one', 'step', 'back', 'ruin', 'ur', 'friendship', 'good', 'night']",22
+ham,I will spoil you in bed as well :),34,"['spoil', 'bed', 'well']",3
+ham,Pls tell nelson that the bb's are no longer comin. The money i was expecting aint coming,88,"['pls', 'tell', 'nelson', 'bb', 'longer', 'comin', 'money', 'expecting', 'aint', 'coming']",10
+ham,Sounds like something that someone testing me would sayy,56,"['sound', 'like', 'something', 'someone', 'testing', 'would', 'sayy']",7
+ham,Nite...,7,['nite'],1
+ham,Dude while were makin those weirdy brownies my sister made awesome cookies. I took pics.,88,"['dude', 'makin', 'weirdy', 'brownie', 'sister', 'made', 'awesome', 'cooky', 'took', 'pic']",10
+ham,"I need an 8th but I'm off campus atm, could I pick up in an hour or two?",72,"['need', 'campus', 'atm', 'could', 'pick', 'hour', 'two']",7
+ham,IM GONNAMISSU SO MUCH!!I WOULD SAY IL SEND U A POSTCARD BUTTHERES ABOUTAS MUCH CHANCE OF MEREMEMBERIN ASTHERE IS OFSI NOT BREAKIN HIS CONTRACT!! LUV Yaxx,153,"['im', 'gonnamissu', 'much', 'would', 'say', 'il', 'send', 'u', 'postcard', 'buttheres', 'aboutas', 'much', 'chance', 'merememberin', 'asthere', 'ofsi', 'breakin', 'contract', 'luv', 'yaxx']",20
+spam,You have 1 new message. Please call 08715205273,47,"['new', 'message', 'please', 'call']",4
+ham,Yes! How is a pretty lady like you single?,42,"['yes', 'pretty', 'lady', 'like', 'single']",5
+ham,And by when you're done I mean now,34,"['done', 'mean']",2
+ham,Forgot to tell ü smth.. Can ü like number the sections so that it's clearer..,77,"['forgot', 'tell', 'ü', 'smth', 'ü', 'like', 'number', 'section', 'clearer']",9
+ham,Don't make life too stressfull.. Always find time to Laugh.. It may not add years to your Life! But surely adds more life to ur years!! Gud ni8..swt dreams..,157,"['make', 'life', 'stressfull', 'always', 'find', 'time', 'laugh', 'may', 'add', 'year', 'life', 'surely', 'add', 'life', 'ur', 'year', 'gud', 'swt', 'dream']",19
+spam,New TEXTBUDDY Chat 2 horny guys in ur area 4 just 25p Free 2 receive Search postcode or at gaytextbuddy.com. TXT ONE name to 89693. 08715500022 rpl Stop 2 cnl,158,"['new', 'textbuddy', 'chat', 'horny', 'guy', 'ur', 'area', 'free', 'receive', 'search', 'postcode', 'txt', 'one', 'name', 'rpl', 'stop', 'cnl']",17
+ham,have * good weekend.,20,"['good', 'weekend']",2
+ham,Lovely smell on this bus and it ain't tobacco... ,49,"['lovely', 'smell', 'bus', 'ai', 'tobacco']",5
+spam,Hi if ur lookin 4 saucy daytime fun wiv busty married woman Am free all next week Chat now 2 sort time 09099726429 JANINExx Calls£1/minMobsmoreLKPOBOX177HP51FL,159,"['hi', 'ur', 'lookin', 'saucy', 'daytime', 'fun', 'wiv', 'busty', 'married', 'woman', 'free', 'next', 'week', 'chat', 'sort', 'time', 'janinexx']",17
+ham,"Men always needs a beautiful, intelligent, caring, loving, adjustable, cooperative wife. But the law allows only one wife....",125,"['men', 'always', 'need', 'beautiful', 'intelligent', 'caring', 'loving', 'adjustable', 'cooperative', 'wife', 'law', 'allows', 'one', 'wife']",14
+ham,I know you are. Can you pls open the back?,42,"['know', 'pls', 'open', 'back']",4
+spam,Sexy Singles are waiting for you! Text your AGE followed by your GENDER as wither M or F E.G.23F. For gay men text your AGE followed by a G. e.g.23G.,149,"['sexy', 'single', 'waiting', 'text', 'age', 'followed', 'gender', 'wither', 'f', 'gay', 'men', 'text', 'age', 'followed']",14
+ham,have you ever had one foot before?,34,"['ever', 'one', 'foot']",3
+ham,Be happy there. I will come after noon,38,"['happy', 'come', 'noon']",3
+ham,"Ok omw now, you at castor?",26,"['ok', 'omw', 'castor']",3
+ham,"Sorry, I'll call later",22,"['sorry', 'call', 'later']",3
+ham,Missing you too.pray inshah allah,33,"['missing', 'inshah', 'allah']",3
+ham,"Lets use it next week, princess :)",34,"['let', 'use', 'next', 'week', 'princess']",5
+ham,Ok... The theory test? when are ü going to book? I think it's on 21 may. Coz thought wanna go out with jiayin. But she isnt free,128,"['ok', 'theory', 'test', 'ü', 'going', 'book', 'think', 'may', 'coz', 'thought', 'wan', 'na', 'go', 'jiayin', 'isnt', 'free']",16
+ham,Mm i had my food da from out,28,"['mm', 'food', 'da']",3
+ham,"swhrt how u dey,hope ur ok, tot about u 2day.love n miss.take care.",67,"['swhrt', 'u', 'dey', 'hope', 'ur', 'ok', 'tot', 'u', 'n', 'care']",10
+ham,Ultimately tor motive tui achieve korli.,40,"['ultimately', 'tor', 'motive', 'tui', 'achieve', 'korli']",6
+ham,Then we gotta do it after that,30,"['got', 'ta']",2
+spam,"SPJanuary Male Sale! Hot Gay chat now cheaper, call 08709222922. National rate from 1.5p/min cheap to 7.8p/min peak! To stop texts call 08712460324 (10p/min)",157,"['spjanuary', 'male', 'sale', 'hot', 'gay', 'chat', 'cheaper', 'call', 'national', 'rate', 'cheap', 'peak', 'stop', 'text', 'call']",15
+ham,We left already we at orchard now.,34,"['left', 'already', 'orchard']",3
+ham,Are there TA jobs available? Let me know please cos i really need to start working,82,"['ta', 'job', 'available', 'let', 'know', 'please', 'co', 'really', 'need', 'start', 'working']",11
+ham,I tagged MY friends that you seemed to count as YOUR friends.,61,"['tagged', 'friend', 'seemed', 'count', 'friend']",5
+ham,Miserable. They don't tell u that the side effects of birth control are massive gut wrenching cramps for the first 2 months. I didn't sleep at all last night.,158,"['miserable', 'tell', 'u', 'side', 'effect', 'birth', 'control', 'massive', 'gut', 'wrenching', 'cramp', 'first', 'month', 'sleep', 'last', 'night']",16
+ham,I dont thnk its a wrong calling between us,42,"['dont', 'thnk', 'wrong', 'calling', 'u']",5
+ham,I'm going out to buy mum's present ar.,38,"['going', 'buy', 'mum', 'present', 'ar']",5
+ham,You call him now ok i said call him,35,"['call', 'ok', 'said', 'call']",4
+spam,URGENT! Your Mobile number has been awarded with a £2000 prize GUARANTEED. Call 09058094454 from land line. Claim 3030. Valid 12hrs only,136,"['urgent', 'mobile', 'number', 'awarded', 'prize', 'guaranteed', 'call', 'land', 'line', 'claim', 'valid']",11
+ham,Get ready for  &lt;#&gt;  inches of pleasure...,47,"['get', 'ready', 'lt', 'gt', 'inch', 'pleasure']",6
+ham,THANX4 TODAY CER IT WAS NICE 2 CATCH UP BUT WE AVE 2 FIND MORE TIME MORE OFTEN OH WELL TAKE CARE C U SOON.C,107,"['today', 'cer', 'nice', 'catch', 'ave', 'find', 'time', 'often', 'oh', 'well', 'take', 'care', 'c', 'u']",14
+ham,Yeah just open chat and click friend lists. Then make the list. Easy as pie,75,"['yeah', 'open', 'chat', 'click', 'friend', 'list', 'make', 'list', 'easy', 'pie']",10
+ham,Let me know when you've got the money so carlos can make the call,65,"['let', 'know', 'got', 'money', 'carlos', 'make', 'call']",7
+spam,U have a secret admirer who is looking 2 make contact with U-find out who they R*reveal who thinks UR so special-call on 09058094565,132,"['u', 'secret', 'admirer', 'looking', 'make', 'contact', 'r', 'reveal', 'think', 'ur']",10
+ham,Serious? What like proper tongued her,37,"['serious', 'like', 'proper', 'tongued']",4
+ham,Why must we sit around and wait for summer days to celebrate. Such a magical sight when the worlds dressed in white. Oooooh let there be snow.,142,"['must', 'sit', 'around', 'wait', 'summer', 'day', 'celebrate', 'magical', 'sight', 'world', 'dressed', 'white', 'oooooh', 'let', 'snow']",15
+ham,I know girls always safe and selfish know i got it pa. Thank you. good night.,77,"['know', 'girl', 'always', 'safe', 'selfish', 'know', 'got', 'pa', 'thank', 'good', 'night']",11
+ham,Hi my email address has changed now it is ,42,"['hi', 'email', 'address', 'changed']",4
+ham,How are you doing? Hope you've settled in for the new school year. Just wishin you a gr8 day,92,"['hope', 'settled', 'new', 'school', 'year', 'wishin', 'day']",7
+ham,Hello hun how ru? Its here by the way. Im good. Been on 2 dates with that guy i met in walkabout so far. We have to meet up soon. Hows everyone else?,149,"['hello', 'hun', 'ru', 'way', 'im', 'good', 'date', 'guy', 'met', 'walkabout', 'far', 'meet', 'soon', 'hows', 'everyone', 'else']",16
+ham,"For you information, IKEA is spelled with all caps. That is not yelling. when you thought i had left you, you were sitting on the bed among the mess when i came in. i said we were going after you got home from class. please don't try and bullshit me. It makes me want to listen to you less.",290,"['information', 'ikea', 'spelled', 'cap', 'yelling', 'thought', 'left', 'sitting', 'bed', 'among', 'mess', 'came', 'said', 'going', 'got', 'home', 'class', 'please', 'try', 'bullshit', 'make', 'want', 'listen', 'less']",24
+ham,Sen told that he is going to join his uncle finance in cbe,58,"['sen', 'told', 'going', 'join', 'uncle', 'finance', 'cbe']",7
+ham,"Lol, oh you got a friend for the dog ?",38,"['lol', 'oh', 'got', 'friend', 'dog']",5
+ham,"alright, I'll make sure the car is back tonight",47,"['alright', 'make', 'sure', 'car', 'back', 'tonight']",6
+spam,SMS AUCTION - A BRAND NEW Nokia 7250 is up 4 auction today! Auction is FREE 2 join & take part! Txt NOKIA to 86021 now! HG/Suite342/2Lands Row/W1J6HL,149,"['sm', 'auction', 'brand', 'new', 'nokia', 'auction', 'today', 'auction', 'free', 'join', 'take', 'part', 'txt', 'nokia']",14
+ham,Well welp is sort of a semiobscure internet thing,49,"['well', 'welp', 'sort', 'semiobscure', 'internet', 'thing']",6
+ham,Ok but knackered. Just came home and went to sleep! Not good at this full time work lark.,89,"['ok', 'knackered', 'came', 'home', 'went', 'sleep', 'good', 'full', 'time', 'work', 'lark']",11
+ham,Even i cant close my eyes you are in me our vava playing umma :-D,65,"['even', 'cant', 'close', 'eye', 'vava', 'playing', 'umma']",7
+ham,Its worse if if uses half way then stops. Its better for him to complete it.,76,"['worse', 'us', 'half', 'way', 'stop', 'better', 'complete']",7
+ham,aathi..where are you dear..,27,"['aathi', 'dear']",2
+ham,That depends. How would you like to be treated? :),50,"['depends', 'would', 'like', 'treated']",4
+ham,Sounds better than my evening im just doing my costume. Im not sure what time i finish tomorrow but i will txt you at the end.,126,"['sound', 'better', 'evening', 'im', 'costume', 'im', 'sure', 'time', 'finish', 'tomorrow', 'txt', 'end']",12
+ham,"Received, understood n acted upon!",34,"['received', 'understood', 'n', 'acted', 'upon']",5
+ham,2 and half years i missed your friendship:-),44,"['half', 'year', 'missed', 'friendship']",4
+ham,"HEY BABE! FAR 2 SPUN-OUT 2 SPK AT DA MO... DEAD 2 DA WRLD. BEEN SLEEPING ON DA SOFA ALL DAY, HAD A COOL NYTHO, TX 4 FONIN HON, CALL 2MWEN IM BK FRMCLOUD 9! J X",159,"['hey', 'babe', 'far', 'spk', 'da', 'mo', 'dead', 'da', 'wrld', 'sleeping', 'da', 'sofa', 'day', 'cool', 'nytho', 'tx', 'fonin', 'hon', 'call', 'im', 'bk', 'frmcloud', 'j', 'x']",24
+spam,"Romantic Paris. 2 nights, 2 flights from £79 Book now 4 next year. Call 08704439680Ts&Cs apply.",95,"['romantic', 'paris', 'night', 'flight', 'book', 'next', 'year', 'call', 'c', 'apply']",10
+spam,"SIX chances to win CASH! From 100 to 20,000 pounds txt> CSH11 and send to 87575. Cost 150p/day, 6days, 16+ TsandCs apply Reply HL 4 info",136,"['six', 'chance', 'win', 'cash', 'pound', 'txt', 'send', 'cost', 'tsandcs', 'apply', 'reply', 'hl', 'info']",13
+ham,"Babe, I'm back ... Come back to me ...",38,"['babe', 'back', 'come', 'back']",4
+ham,Ok then i'll let him noe later n ask him call u tmr...,54,"['ok', 'let', 'noe', 'later', 'n', 'ask', 'call', 'u', 'tmr']",9
+ham,"He will, you guys close?",24,"['guy', 'close']",2
+ham,Hey mr  and I are going to the sea view and having a couple of gays I mean games! Give me a bell when ya finish ,112,"['hey', 'mr', 'going', 'sea', 'view', 'couple', 'gay', 'mean', 'game', 'give', 'bell', 'ya', 'finish']",13
+spam,You are a winner U have been specially selected 2 receive £1000 cash or a 4* holiday (flights inc) speak to a live operator 2 claim 0871277810810,145,"['winner', 'u', 'specially', 'selected', 'receive', 'cash', 'holiday', 'flight', 'inc', 'speak', 'live', 'operator', 'claim']",13
+ham,"Sun cant come to earth but send luv as rays. cloud cant come to river but send luv as rain. I cant come to meet U, but can send my care as msg to U. Gud evng",157,"['sun', 'cant', 'come', 'earth', 'send', 'luv', 'ray', 'cloud', 'cant', 'come', 'river', 'send', 'luv', 'rain', 'cant', 'come', 'meet', 'u', 'send', 'care', 'msg', 'gud', 'evng']",23
+ham,"Wa, ur openin sentence very formal... Anyway, i'm fine too, juz tt i'm eatin too much n puttin on weight...Haha... So anythin special happened?",143,"['wa', 'ur', 'openin', 'sentence', 'formal', 'anyway', 'fine', 'juz', 'tt', 'eatin', 'much', 'n', 'puttin', 'weight', 'haha', 'anythin', 'special', 'happened']",18
+ham,She's borderline but yeah whatever.,35,"['borderline', 'yeah', 'whatever']",3
+ham,Let Ur Heart Be Ur Compass Ur Mind Ur Map Ur Soul Ur Guide And U Will Never loose in world....gnun - Sent via WAY2SMS.COM,121,"['let', 'ur', 'heart', 'ur', 'compass', 'ur', 'mind', 'ur', 'map', 'ur', 'soul', 'ur', 'guide', 'u', 'never', 'loose', 'world', 'gnun', 'sent', 'via']",20
+ham,I wish u were here. I feel so alone,35,"['wish', 'u', 'feel', 'alone']",4
+ham,K tell me anything about you.,29,"['k', 'tell', 'anything']",3
+ham,I probably won't eat at all today. I think I'm gonna pop. How was your weekend? Did u miss me?,94,"['probably', 'wo', 'eat', 'today', 'think', 'gon', 'na', 'pop', 'weekend', 'u', 'miss']",11
+ham,There's someone here that has a year  &lt;#&gt;  toyota camry like mr olayiwola's own. Mileage is  &lt;#&gt; k.its clean but i need to know how much will it sell for. If i can raise the dough for it how soon after landing will it sell. Holla back.,247,"['someone', 'year', 'lt', 'gt', 'toyota', 'camry', 'like', 'mr', 'olayiwola', 'mileage', 'lt', 'gt', 'clean', 'need', 'know', 'much', 'sell', 'raise', 'dough', 'soon', 'landing', 'sell', 'holla', 'back']",24
+ham,Y dun cut too short leh. U dun like ah? She failed. She's quite sad.,68,"['dun', 'cut', 'short', 'leh', 'u', 'dun', 'like', 'ah', 'failed', 'quite', 'sad']",11
+ham,You are right though. I can't give you the space you want and need. This is really starting to become an issue. I was going to suggest setting a definite move out--if i'm still there-- after greece. But maybe you are ready and should do it now.,244,"['right', 'though', 'ca', 'give', 'space', 'want', 'need', 'really', 'starting', 'become', 'issue', 'going', 'suggest', 'setting', 'definite', 'move', 'still', 'greece', 'maybe', 'ready']",20
+spam,"Congratulations - Thanks to a good friend U have WON the £2,000 Xmas prize. 2 claim is easy, just call 08712103738 NOW! Only 10p per minute. BT-national-rate",157,"['congratulation', 'thanks', 'good', 'friend', 'u', 'xmas', 'prize', 'claim', 'easy', 'call', 'per', 'minute']",12
+ham,So no messages. Had food?,25,"['message', 'food']",2
+ham,I got a call from a landline number. . . I am asked to come to anna nagar . . . I will go in the afternoon,106,"['got', 'call', 'landline', 'number', 'asked', 'come', 'anna', 'nagar', 'go', 'afternoon']",10
+ham,"By march ending, i should be ready. But will call you for sure. The problem is that my capital never complete. How far with you. How's work and the ladies",154,"['march', 'ending', 'ready', 'call', 'sure', 'problem', 'capital', 'never', 'complete', 'far', 'work', 'lady']",12
+ham,I had a good time too. Its nice to do something a bit different with my weekends for a change. See ya soon,106,"['good', 'time', 'nice', 'something', 'bit', 'different', 'weekend', 'change', 'see', 'ya', 'soon']",11
+ham,Mum say we wan to go then go... Then she can shun bian watch da glass exhibition... ,84,"['mum', 'say', 'wan', 'go', 'go', 'shun', 'bian', 'watch', 'da', 'glass', 'exhibition']",11
+ham,Haiyoh... Maybe your hamster was jealous of million,51,"['haiyoh', 'maybe', 'hamster', 'jealous', 'million']",5
+ham,"I just lov this line: ""Hurt me with the truth, I don't mind,i wil tolerat.bcs ur my someone..... But, Never comfort me with a lie"" gud ni8 and sweet dreams",155,"['lov', 'line', 'hurt', 'truth', 'mind', 'wil', 'ur', 'someone', 'never', 'comfort', 'lie', 'gud', 'sweet', 'dream']",14
+spam,Get the official ENGLAND poly ringtone or colour flag on yer mobile for tonights game! Text TONE or FLAG to 84199. Optout txt ENG STOP Box39822 W111WX £1.50,156,"['get', 'official', 'england', 'poly', 'ringtone', 'colour', 'flag', 'yer', 'mobile', 'tonight', 'game', 'text', 'tone', 'flag', 'optout', 'txt', 'eng', 'stop']",18
+ham,Hows the champ just leaving glasgow!,36,"['hows', 'champ', 'leaving', 'glasgow']",4
+ham,Y de asking like this.,22,"['de', 'asking', 'like']",3
+spam,"Free entry to the gr8prizes wkly comp 4 a chance to win the latest Nokia 8800, PSP or £250 cash every wk.TXT GREAT to 80878 http//www.gr8prizes.com 08715705022",159,"['free', 'entry', 'wkly', 'comp', 'chance', 'win', 'latest', 'nokia', 'psp', 'cash', 'every', 'great']",12
+ham,"Spoke with uncle john today. He strongly feels that you need to sacrifice to keep me here. He's going to call you. When he does, i beg you to just listen. Dont make any promises or make it clear things are not easy. And i need you to please let us work things out. As long as i keep expecting help, my creativity will be stifled so pls just keep him happy, no promises on your part.",382,"['spoke', 'uncle', 'john', 'today', 'strongly', 'feel', 'need', 'sacrifice', 'keep', 'going', 'call', 'beg', 'listen', 'dont', 'make', 'promise', 'make', 'clear', 'thing', 'easy', 'need', 'please', 'let', 'u', 'work', 'thing', 'long', 'keep', 'expecting', 'help', 'creativity', 'stifled', 'pls', 'keep', 'happy', 'promise', 'part']",37
+ham,"Haha, just what I was thinkin",29,"['haha', 'thinkin']",2
+spam,More people are dogging in your area now. Call 09090204448 and join like minded guys. Why not arrange 1 yourself. There's 1 this evening. A£1.50 minAPN LS278BB,159,"['people', 'dogging', 'area', 'call', 'join', 'like', 'minded', 'guy', 'arrange', 'evening', 'minapn']",11
+ham,I'm serious. You are in the money base,38,"['serious', 'money', 'base']",3
+ham,"Sir, Waiting for your mail.",27,"['sir', 'waiting', 'mail']",3
+ham,Glad it went well :) come over at 11 then we'll have plenty of time before claire goes to work.,95,"['glad', 'went', 'well', 'come', 'plenty', 'time', 'claire', 'go', 'work']",9
+ham,"You at mu? You should try to figure out how much money everyone has for gas and alcohol, jay and I are trying to figure out our weed budget",139,"['mu', 'try', 'figure', 'much', 'money', 'everyone', 'gas', 'alcohol', 'jay', 'trying', 'figure', 'weed', 'budget']",13
+ham,Nah im goin 2 the wrks with j wot bout u?,41,"['nah', 'im', 'goin', 'wrks', 'j', 'wot', 'bout', 'u']",8
+ham,Hi. I'm sorry i missed your call. Can you pls call back.,56,"['hi', 'sorry', 'missed', 'call', 'pls', 'call', 'back']",7
+ham,Aww that's the first time u said u missed me without asking if I missed u first. You DO love me! :),99,"['aww', 'first', 'time', 'u', 'said', 'u', 'missed', 'without', 'asking', 'missed', 'u', 'first', 'love']",13
+ham,R u here yet? I'm wearing blue shirt n black pants.,51,"['r', 'u', 'yet', 'wearing', 'blue', 'shirt', 'n', 'black', 'pant']",9
+spam,"Eerie Nokia tones 4u, rply TONE TITLE to 8007 eg TONE DRACULA to 8007 Titles: GHOST, ADDAMSFA, MUNSTERS, EXORCIST, TWILIGHT www.getzed.co.uk POBox36504W45WQ 150p",161,"['eerie', 'nokia', 'tone', 'rply', 'tone', 'title', 'eg', 'tone', 'dracula', 'title', 'ghost', 'addamsfa', 'munsters', 'exorcist', 'twilight']",15
+ham,alright tyler's got a minor crisis and has to be home sooner than he thought so be here asap,92,"['alright', 'tyler', 'got', 'minor', 'crisis', 'home', 'sooner', 'thought', 'asap']",9
+ham,"Sorry to trouble u again. Can buy 4d for my dad again? 1405, 1680, 1843. All 2 big 1 small, sat n sun. Thanx.",109,"['sorry', 'trouble', 'u', 'buy', 'dad', 'big', 'small', 'sat', 'n', 'sun', 'thanx']",11
+ham,K..u also dont msg or reply to his msg..,40,"['k', 'u', 'also', 'dont', 'msg', 'reply', 'msg']",7
+ham,"House-Maid is the murderer, coz the man was murdered on  &lt;#&gt; th January.. As public holiday all govt.instituitions are closed,including post office..",155,"['murderer', 'coz', 'man', 'murdered', 'lt', 'gt', 'th', 'january', 'public', 'holiday', 'closed', 'including', 'post', 'office']",14
+ham,Tell them no need to investigate about me anywhere.,51,"['tell', 'need', 'investigate', 'anywhere']",4
+ham,Yes watching footie but worried we're going to blow it - Phil Neville?,70,"['yes', 'watching', 'footie', 'worried', 'going', 'blow', 'phil', 'neville']",8
+ham,What time do u get out?,23,"['time', 'u', 'get']",3
+ham,K...k:)why cant you come here and search job:),46,"['k', 'k', 'cant', 'come', 'search', 'job']",6
+ham,Do you work all this week ?,27,"['work', 'week']",2
+spam,You are a winner you have been specially selected to receive £1000 cash or a £2000 award. Speak to a live operator to claim call 087147123779am-7pm. Cost 10p,157,"['winner', 'specially', 'selected', 'receive', 'cash', 'award', 'speak', 'live', 'operator', 'claim', 'call', 'cost']",12
+ham,Well. Im computerless. Time to make some oreo truffles,54,"['well', 'im', 'computerless', 'time', 'make', 'oreo', 'truffle']",7
+ham,Lol alright i was thinkin that too haha,39,"['lol', 'alright', 'thinkin', 'haha']",4
+ham,I'm doing da intro covers energy trends n pros n cons... Brief description of nuclear fusion n oso brief history of iter n jet got abt 7 n half pages..,151,"['da', 'intro', 'cover', 'energy', 'trend', 'n', 'pro', 'n', 'con', 'brief', 'description', 'nuclear', 'fusion', 'n', 'oso', 'brief', 'history', 'iter', 'n', 'jet', 'got', 'abt', 'n', 'half', 'page']",25
+ham,Already am squatting is the new way of walking,46,"['already', 'squatting', 'new', 'way', 'walking']",5
+ham,The length is e same but e top shorter n i got a fringe now. I thk i'm not going liao. Too lazy. Dun wan 2 distract u also.,123,"['length', 'e', 'e', 'top', 'shorter', 'n', 'got', 'fringe', 'thk', 'going', 'liao', 'lazy', 'dun', 'wan', 'distract', 'u', 'also']",17
+ham,Thanks honey. Have a great day.,31,"['thanks', 'honey', 'great', 'day']",4
+ham,Well thats nice. Too bad i cant eat it,38,"['well', 'thats', 'nice', 'bad', 'cant', 'eat']",6
+ham,As per your request 'Melle Melle (Oru Minnaminunginte Nurungu Vettam)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune,160,"['per', 'request', 'melle', 'oru', 'minnaminunginte', 'nurungu', 'vettam', 'set', 'callertune', 'caller', 'press', 'copy', 'friend', 'callertune']",14
+ham,thanks for the temales it was wonderful. Thank. Have a great week.,66,"['thanks', 'temales', 'wonderful', 'thank', 'great', 'week']",6
+spam,Email AlertFrom: Jeri StewartSize: 2KBSubject: Low-cost prescripiton drvgsTo listen to email call 123,101,"['email', 'alertfrom', 'jeri', 'stewartsize', 'prescripiton', 'drvgsto', 'listen', 'email', 'call']",9
+spam,FREE for 1st week! No1 Nokia tone 4 ur mob every week just txt NOKIA to 8007 Get txting and tell ur mates www.getzed.co.uk POBox 36504 W45WQ norm150p/tone 16+,158,"['free', 'week', 'nokia', 'tone', 'ur', 'mob', 'every', 'week', 'txt', 'nokia', 'get', 'txting', 'tell', 'ur', 'mate', 'pobox']",16
+spam,"Urgent! call 09061749602 from Landline. Your complimentary 4* Tenerife Holiday or £10,000 cash await collection SAE T&Cs BOX 528 HP20 1YF 150ppm 18+",148,"['urgent', 'call', 'landline', 'complimentary', 'tenerife', 'holiday', 'cash', 'await', 'collection', 'sae', 'c', 'box']",12
+ham,Oh... Kay... On sat right?,26,"['oh', 'kay', 'sat', 'right']",4
+ham,Yes. They replied my mail. I'm going to the management office later. Plus will in to bank later also.or on wednesday.,117,"['yes', 'replied', 'mail', 'going', 'management', 'office', 'later', 'plus', 'bank', 'later', 'wednesday']",11
+ham,Guessin you ain't gonna be here before 9?,41,"['guessin', 'ai', 'gon', 'na']",4
+spam,Guess what! Somebody you know secretly fancies you! Wanna find out who it is? Give us a call on 09065394514 From Landline DATEBox1282EssexCM61XN 150p/min 18,156,"['guess', 'somebody', 'know', 'secretly', 'fancy', 'wan', 'na', 'find', 'give', 'u', 'call', 'landline']",12
+ham,I cant pick the phone right now. Pls send a message,51,"['cant', 'pick', 'phone', 'right', 'pls', 'send', 'message']",7
+ham,Ew are you one of them?,23,"['ew', 'one']",2
+spam,Your unique user ID is 1172. For removal send STOP to 87239 customer services 08708034412,89,"['unique', 'user', 'id', 'removal', 'send', 'stop', 'customer', 'service']",8
+ham,You busy or can I come by at some point and figure out what we're doing tomorrow,80,"['busy', 'come', 'point', 'figure', 'tomorrow']",5
+spam,+123 Congratulations - in this week's competition draw u have won the £1450 prize to claim just call 09050002311 b4280703. T&Cs/stop SMS 08718727868. Over 18 only 150ppm,169,"['congratulation', 'week', 'competition', 'draw', 'u', 'prize', 'claim', 'call', 'sm']",9
+spam,Reply with your name and address and YOU WILL RECEIVE BY POST a weeks completely free accommodation at various global locations www.phb1.com ph:08700435505150p,159,"['reply', 'name', 'address', 'receive', 'post', 'week', 'completely', 'free', 'accommodation', 'various', 'global', 'location']",12
+ham,That's the way you should stay oh.,34,"['way', 'stay', 'oh']",3
+ham,If u laugh really loud.. If u talk spontaneously.. If u dont care what others feel.. U are probably with your dear &amp; best friends.. GOODEVENING Dear..:),156,"['u', 'laugh', 'really', 'loud', 'u', 'talk', 'spontaneously', 'u', 'dont', 'care', 'others', 'feel', 'u', 'probably', 'dear', 'amp', 'best', 'friend', 'goodevening', 'dear']",20
+ham,HEY GIRL. HOW R U? HOPE U R WELL ME AN DEL R BAK! AGAIN LONG TIME NO C! GIVE ME A CALL SUM TIME FROM LUCYxx,107,"['hey', 'girl', 'r', 'u', 'hope', 'u', 'r', 'well', 'del', 'r', 'bak', 'long', 'time', 'c', 'give', 'call', 'sum', 'time', 'lucyxx']",19
+ham,"K, text me when you're on the way",33,"['k', 'text', 'way']",3
+ham,1 I don't have her number and 2 its gonna be a massive pain in the ass and i'd rather not get involved if that's possible,121,"['number', 'gon', 'na', 'massive', 'pain', 'as', 'rather', 'get', 'involved', 'possible']",10
+ham,University of southern california.,34,"['university', 'southern', 'california']",3
+ham,Bull. Your plan was to go floating off to IKEA with me without a care in the world. So i have to live with your mess another day.,129,"['bull', 'plan', 'go', 'floating', 'ikea', 'without', 'care', 'world', 'live', 'mess', 'another', 'day']",12
+ham,I'm working technical support :)voice process.networking field.,63,"['working', 'technical', 'support', 'voice', 'field']",5
+ham,Even my brother is not like to speak with me. They treat me like aids patent.,77,"['even', 'brother', 'like', 'speak', 'treat', 'like', 'aid', 'patent']",8
+ham,"Tunji, how's the queen? how are you doing. This is just wishing you a great day. Abiola.",88,"['tunji', 'queen', 'wishing', 'great', 'day', 'abiola']",6
+ham,Hi juan. Im coming home on fri hey. Of course i expect a welcome party and lots of presents. Ill phone u when i get back. Loads of love nicky x x x x x x x x x,159,"['hi', 'juan', 'im', 'coming', 'home', 'fri', 'hey', 'course', 'expect', 'welcome', 'party', 'lot', 'present', 'ill', 'phone', 'u', 'get', 'back', 'load', 'love', 'nicky', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x', 'x']",30
+spam,"Fantasy Football is back on your TV. Go to Sky Gamestar on Sky Active and play £250k Dream Team. Scoring starts on Saturday, so register now!SKY OPT OUT to 88088",161,"['fantasy', 'football', 'back', 'tv', 'go', 'sky', 'gamestar', 'sky', 'active', 'play', 'dream', 'team', 'scoring', 'start', 'saturday', 'register', 'sky', 'opt']",18
+ham,I cant pick the phone right now. Pls send a message,51,"['cant', 'pick', 'phone', 'right', 'pls', 'send', 'message']",7
+ham,"Sorry, left phone upstairs. OK, might be hectic but would be all my birds with one fell swoop. It's a date.",107,"['sorry', 'left', 'phone', 'upstairs', 'ok', 'might', 'hectic', 'would', 'bird', 'one', 'fell', 'swoop', 'date']",13
+ham,Did u got that persons story,28,"['u', 'got', 'person', 'story']",4
+ham,Gam gone after outstanding innings.,35,"['gam', 'gone', 'outstanding', 'inning']",4
+ham,IM FINE BABES AINT BEEN UP 2 MUCH THO! SAW SCARY MOVIE YEST ITS QUITE FUNNY! WANT 2MRW AFTERNOON? AT TOWN OR MALL OR SUMTHIN?xx,127,"['im', 'fine', 'babe', 'aint', 'much', 'tho', 'saw', 'scary', 'movie', 'yest', 'quite', 'funny', 'want', 'afternoon', 'town', 'mall', 'sumthin', 'xx']",18
+ham,I've sent my wife your text. After we buy them she'll tell you what to do. So just relax. We should go get them this wkend.,123,"['sent', 'wife', 'text', 'buy', 'tell', 'relax', 'go', 'get', 'wkend']",9
+ham,Realy sorry-i don't recognise this number and am now confused :) who r u please?! ,82,"['realy', 'recognise', 'number', 'confused', 'r', 'u', 'please']",7
+ham,Sleeping nt feeling well,24,"['sleeping', 'nt', 'feeling', 'well']",4
+ham,Hai ana tomarrow am coming on morning.  &lt;DECIMAL&gt;  ill be there in sathy then we ll go to RTO office. Reply me after came to home.,136,"['hai', 'ana', 'tomarrow', 'coming', 'morning', 'lt', 'decimal', 'gt', 'ill', 'sathy', 'go', 'rto', 'office', 'reply', 'came', 'home']",16
+ham,Just normal only here :),24,['normal'],1
+ham,Then. You are eldest know.,26,"['eldest', 'know']",2
+ham,"LOOK AT AMY URE A BEAUTIFUL, INTELLIGENT WOMAN AND I LIKE U A LOT. I KNOW U DONT LIKE ME LIKE THAT SO DONT WORRY.",115,"['look', 'amy', 'ure', 'beautiful', 'intelligent', 'woman', 'like', 'u', 'lot', 'know', 'u', 'like', 'like', 'worry']",14
+ham,Of course. I guess god's just got me on hold right now.,55,"['course', 'guess', 'god', 'got', 'hold', 'right']",6
+ham,Macha dont feel upset.i can assume your mindset.believe me one evening with me and i have some wonderful plans for both of us.LET LIFE BEGIN AGAIN.call me anytime,162,"['macha', 'dont', 'feel', 'assume', 'one', 'evening', 'wonderful', 'plan', 'life', 'begin', 'anytime']",11
+ham,You said not now. No problem. When you can. Let me know.,56,"['said', 'problem', 'let', 'know']",4
+ham,Aiyo cos i sms ü then ü neva reply so i wait 4 ü to reply lar. I tot ü havent finish ur lab wat.,96,"['aiyo', 'co', 'sm', 'ü', 'ü', 'neva', 'reply', 'wait', 'ü', 'reply', 'lar', 'tot', 'ü', 'havent', 'finish', 'ur', 'lab', 'wat']",18
+ham,"Storming msg: Wen u lift d phne, u say ""HELLO"" Do u knw wt is d real meaning of HELLO?? . . . It's d name of a girl..! . . . Yes.. And u knw who is dat girl?? ""Margaret Hello"" She is d girlfrnd f Grahmbell who invnted telphone... . . . . Moral:One can 4get d name of a person, bt not his girlfrnd... G o o d n i g h t . . .@",324,"['storming', 'msg', 'wen', 'u', 'lift', 'phne', 'u', 'say', 'hello', 'u', 'knw', 'wt', 'real', 'meaning', 'hello', 'name', 'girl', 'yes', 'u', 'knw', 'dat', 'girl', 'margaret', 'hello', 'girlfrnd', 'f', 'grahmbell', 'invnted', 'telphone', 'moral', 'one', 'name', 'person', 'bt', 'girlfrnd', 'g', 'n', 'g', 'h']",39
+spam,Natalja (25/F) is inviting you to be her friend. Reply YES-440 or NO-440 See her: www.SMS.ac/u/nat27081980 STOP? Send STOP FRND to 62468,136,"['natalja', 'inviting', 'friend', 'reply', 'see', 'stop', 'send', 'stop', 'frnd']",9
+ham,Oops my phone died and I didn't even know. Yeah I like it better.,65,"['oops', 'phone', 'died', 'even', 'know', 'yeah', 'like', 'better']",8
+ham,I meant as an apology from me for texting you to get me drugs at  &lt;#&gt; at night,84,"['meant', 'apology', 'texting', 'get', 'drug', 'lt', 'gt', 'night']",8
+ham,Dude avatar 3d was imp. At one point i thought there were actually flies in the room and almost tried hittng one as a reflex,124,"['dude', 'avatar', 'imp', 'one', 'point', 'thought', 'actually', 'fly', 'room', 'almost', 'tried', 'hittng', 'one', 'reflex']",14
+ham,Never blame a day in ur life. Good days give u happiness. Bad days give u experience. Both are essential in life! All are Gods blessings! good morning.:,152,"['never', 'blame', 'day', 'ur', 'life', 'good', 'day', 'give', 'u', 'happiness', 'bad', 'day', 'give', 'u', 'experience', 'essential', 'life', 'god', 'blessing', 'good', 'morning']",21
+ham,You said to me before i went back to bed that you can't sleep for anything.,75,"['said', 'went', 'back', 'bed', 'ca', 'sleep', 'anything']",7
+ham,Friendship poem: Dear O Dear U R Not Near But I Can Hear Dont Get Fear Live With Cheer No More Tear U R Always my Dear. Gud ni8,127,"['friendship', 'poem', 'dear', 'dear', 'u', 'r', 'near', 'hear', 'dont', 'get', 'fear', 'live', 'cheer', 'tear', 'u', 'r', 'always', 'dear', 'gud']",19
+spam,Get the official ENGLAND poly ringtone or colour flag on yer mobile for tonights game! Text TONE or FLAG to 84199. Optout txt ENG STOP Box39822 W111WX £1.50,156,"['get', 'official', 'england', 'poly', 'ringtone', 'colour', 'flag', 'yer', 'mobile', 'tonight', 'game', 'text', 'tone', 'flag', 'optout', 'txt', 'eng', 'stop']",18
+ham,No message..no responce..what happend?,38,"['message', 'responce', 'happend']",3
+ham,What is your record for one night? :),37,"['record', 'one', 'night']",3
+ham,Anytime lor...,14,"['anytime', 'lor']",2
+ham,Wishing you a wonderful week.,29,"['wishing', 'wonderful', 'week']",3
+ham,Quite late lar... Ard 12 anyway i wun b drivin...,49,"['quite', 'late', 'lar', 'ard', 'anyway', 'wun', 'b', 'drivin']",8
+ham,"K I'll head out in a few mins, see you there",44,"['k', 'head', 'min', 'see']",4
+spam,Great News! Call FREEFONE 08006344447 to claim your guaranteed £1000 CASH or £2000 gift. Speak to a live operator NOW!,118,"['great', 'news', 'call', 'freefone', 'claim', 'guaranteed', 'cash', 'gift', 'speak', 'live', 'operator']",11
+ham,My superior telling that friday is leave for all other department except ours:)so it will be leave for you:)any way call waheed fathima hr and conform it:),155,"['superior', 'telling', 'friday', 'leave', 'department', 'except', 'leave', 'way', 'call', 'waheed', 'fathima', 'hr', 'conform']",13
+ham,Today is ACCEPT DAY..U Accept me as? Brother Sister Lover Dear1 Best1 Clos1 Lvblefrnd Jstfrnd Cutefrnd Lifpartnr Belovd Swtheart Bstfrnd No rply means enemy,156,"['today', 'accept', 'day', 'u', 'accept', 'brother', 'sister', 'lover', 'lvblefrnd', 'jstfrnd', 'cutefrnd', 'lifpartnr', 'belovd', 'swtheart', 'bstfrnd', 'rply', 'mean', 'enemy']",18
+ham,Can you talk with me..,22,['talk'],1
+ham,Shall i send that exe to your mail id.,38,"['shall', 'send', 'exe', 'mail', 'id']",5
+ham,Que pases un buen tiempo or something like that,47,"['que', 'pas', 'un', 'buen', 'tiempo', 'something', 'like']",7
+ham,I always chat with you. In fact i need money can you raise me?,62,"['always', 'chat', 'fact', 'need', 'money', 'raise']",6
+ham,How's it going? Got any exciting karaoke type activities planned? I'm debating whether to play football this eve. Feeling lazy though.,134,"['going', 'got', 'exciting', 'karaoke', 'type', 'activity', 'planned', 'debating', 'whether', 'play', 'football', 'eve', 'feeling', 'lazy', 'though']",15
+ham,This message is from a great Doctor in India:-): 1) Do not drink APPY FIZZ. It contains Cancer causing age,106,"['message', 'great', 'doctor', 'india', 'drink', 'appy', 'fizz', 'contains', 'cancer', 'causing', 'age']",11
+spam,"Congrats! 2 mobile 3G Videophones R yours. call 09061744553 now! videochat wid ur mates, play java games, Dload polyH music, noline rentl. bx420. ip4. 5we. 150pm",161,"['congrats', 'mobile', 'videophones', 'r', 'call', 'videochat', 'wid', 'ur', 'mate', 'play', 'java', 'game', 'dload', 'polyh', 'music', 'noline', 'rentl']",17
+ham,"Sir, I am waiting for your mail.",32,"['sir', 'waiting', 'mail']",3
+ham,"Kate jackson rec center before 7ish, right?",43,"['kate', 'jackson', 'rec', 'center', 'right']",5
+ham,Aight well keep me informed,27,"['aight', 'well', 'keep', 'informed']",4
+ham,No it will reach by 9 only. She telling she will be there. I dont know,70,"['reach', 'telling', 'dont', 'know']",4
+ham,"Thanks, I'll keep that in mind",30,"['thanks', 'keep', 'mind']",3
+ham,"Em, its olowoyey@ usc.edu have a great time in argentina. Not sad about secretary, everything is a blessing",107,"['em', 'olowoyey', 'great', 'time', 'argentina', 'sad', 'secretary', 'everything', 'blessing']",9
+ham,Tell me something. Thats okay.,30,"['tell', 'something', 'thats', 'okay']",4
+ham,They are just making it easy to pay back. I have  &lt;#&gt; yrs to say but i can pay back earlier. You get?,107,"['making', 'easy', 'pay', 'back', 'lt', 'gt', 'yr', 'say', 'pay', 'back', 'earlier', 'get']",12
+ham,They said ü dun haf passport or smth like dat.. Or ü juz send to my email account..  ,85,"['said', 'ü', 'dun', 'haf', 'passport', 'smth', 'like', 'dat', 'ü', 'juz', 'send', 'email', 'account']",13
+ham,Am also doing in cbe only. But have to pay.,43,"['also', 'cbe', 'pay']",3
+ham,You do what all you like,24,['like'],1
+ham,"I got another job! The one at the hospital doing data analysis or something, starts on monday! Not sure when my thesis will got finished",136,"['got', 'another', 'job', 'one', 'hospital', 'data', 'analysis', 'something', 'start', 'monday', 'sure', 'thesis', 'got', 'finished']",14
+ham,"Yes, princess. Are you going to make me moan?",45,"['yes', 'princess', 'going', 'make', 'moan']",5
+ham,Dunno lei shd b driving lor cos i go sch 1 hr oni.,50,"['dunno', 'lei', 'shd', 'b', 'driving', 'lor', 'co', 'go', 'sch', 'hr', 'oni']",11
+ham,They don't put that stuff on the roads to keep it from getting slippery over there?,83,"['put', 'stuff', 'road', 'keep', 'getting', 'slippery']",6
+ham,Is ur paper today in e morn or aft?,35,"['ur', 'paper', 'today', 'e', 'morn', 'aft']",6
+ham,Huh means computational science... Y they like dat one push here n there...,75,"['huh', 'mean', 'computational', 'science', 'like', 'dat', 'one', 'push', 'n']",9
+ham,"Hi elaine, is today's meeting confirmed?",40,"['hi', 'elaine', 'today', 'meeting', 'confirmed']",5
+ham,That means get the door,23,"['mean', 'get', 'door']",3
+ham,Nope. I just forgot. Will show next week,40,"['nope', 'forgot', 'show', 'next', 'week']",5
+ham,"Oops - am at my mum's in somerset... Bit far! Back tomo, see you soon x",71,"['oops', 'mum', 'somerset', 'bit', 'far', 'back', 'tomo', 'see', 'soon', 'x']",10
+spam,Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/msg. CC: 08718720201 PO BOX 114/14 TCR/W1,137,"['ur', 'currently', 'pound', 'maximize', 'ur', 'send', 'go', 'cc', 'po', 'box']",10
+ham,"Sir, I need Velusamy sir's date of birth and company bank facilities details.",77,"['sir', 'need', 'velusamy', 'sir', 'date', 'birth', 'company', 'bank', 'facility', 'detail']",10
+ham,Unless it's a situation where YOU GO GURL would be more appropriate,67,"['unless', 'situation', 'go', 'gurl', 'would', 'appropriate']",6
+spam,3. You have received your mobile content. Enjoy,47,"['received', 'mobile', 'content', 'enjoy']",4
+ham,I have many dependents,22,"['many', 'dependent']",2
+ham,THING R GOOD THANX GOT EXAMS IN MARCH IVE DONE NO REVISION? IS FRAN STILL WITH BOYF? IVE GOTTA INTERVIW 4 EXETER BIT WORRIED!x,126,"['thing', 'r', 'good', 'thanx', 'got', 'exam', 'march', 'ive', 'done', 'revision', 'fran', 'still', 'boyf', 'ive', 'got', 'ta', 'interviw', 'exeter', 'bit', 'worried', 'x']",21
+ham,"Hi, wkend ok but journey terrible. Wk not good as have huge back log of marking to do",85,"['hi', 'wkend', 'ok', 'journey', 'terrible', 'wk', 'good', 'huge', 'back', 'log', 'marking']",11
+ham,No I'm in the same boat. Still here at my moms. Check me out on yo. I'm half naked.,83,"['boat', 'still', 'mom', 'check', 'yo', 'half', 'naked']",7
+spam,"Claim a 200 shopping spree, just call 08717895698 now! Have you won! MobStoreQuiz10ppm",86,"['claim', 'shopping', 'spree', 'call']",4
+ham,Okay... I booked all already... Including the one at bugis.,59,"['okay', 'booked', 'already', 'including', 'one', 'bugis']",6
+ham,Your pussy is perfect!,22,"['pussy', 'perfect']",2
+spam,FREE for 1st week! No1 Nokia tone 4 ur mobile every week just txt NOKIA to 8077 Get txting and tell ur mates. www.getzed.co.uk POBox 36504 W45WQ 16+ norm150p/tone,162,"['free', 'week', 'nokia', 'tone', 'ur', 'mobile', 'every', 'week', 'txt', 'nokia', 'get', 'txting', 'tell', 'ur', 'mate', 'pobox']",16
+ham,Your brother is a genius,24,"['brother', 'genius']",2
+ham,Captain vijaykanth is doing comedy in captain tv..he is drunken :),66,"['captain', 'vijaykanth', 'comedy', 'captain', 'tv', 'drunken']",6
+ham,Simply sitting and watching match in office..,45,"['simply', 'sitting', 'watching', 'match', 'office']",5
+ham,Ok..,4,['ok'],1
+ham,Shant disturb u anymore... Jia you...,37,"['shant', 'disturb', 'u', 'anymore', 'jia']",5
+spam,goldviking (29/M) is inviting you to be his friend. Reply YES-762 or NO-762 See him: www.SMS.ac/u/goldviking STOP? Send STOP FRND to 62468,138,"['goldviking', 'inviting', 'friend', 'reply', 'see', 'stop', 'send', 'stop', 'frnd']",9
+ham,"Beautiful tomorrow never comes.. When it comes, it's already TODAY.. In the hunt of beautiful tomorrow don't waste your wonderful TODAY.. GOODMORNING:)",151,"['beautiful', 'tomorrow', 'never', 'come', 'come', 'already', 'today', 'hunt', 'beautiful', 'tomorrow', 'waste', 'wonderful', 'today', 'goodmorning']",14
+ham,Thats cool! I am a gentleman and will treat you with dignity and respect.,73,"['thats', 'cool', 'gentleman', 'treat', 'dignity', 'respect']",6
+ham,You know my old Dom I told you about yesterday ? His name is Roger? He got in touch with me last night and wants me to meet him today at 2 pm,141,"['know', 'old', 'dom', 'told', 'yesterday', 'name', 'roger', 'got', 'touch', 'last', 'night', 'want', 'meet', 'today', 'pm']",15
+spam,07732584351 - Rodger Burns - MSG = We tried to call you re your reply to our sms for a free nokia mobile + free camcorder. Please call now 08000930705 for delivery tomorrow,172,"['rodger', 'burn', 'msg', 'tried', 'call', 'reply', 'sm', 'free', 'nokia', 'mobile', 'free', 'camcorder', 'please', 'call', 'delivery', 'tomorrow']",16
+ham,I'm at home n ready...,22,"['home', 'n', 'ready']",3
+ham,Networking technical support associate.,39,"['networking', 'technical', 'support', 'associate']",4
+ham,She's good. How are you. Where r u working now,46,"['good', 'r', 'u', 'working']",4
+ham,I reach home safe n sound liao...,33,"['reach', 'home', 'safe', 'n', 'sound', 'liao']",6
+ham,"A Boy loved a gal. He propsd bt she didnt mind. He gv lv lttrs, Bt her frnds threw thm. Again d boy decided 2 aproach d gal , dt time a truck was speeding towards d gal. Wn it was about 2 hit d girl,d boy ran like hell n saved her. She asked 'hw cn u run so fast?' D boy replied ""Boost is d secret of my energy"" n instantly d girl shouted ""our energy"" n Thy lived happily 2gthr drinking boost evrydy Moral of d story:- I hv free msgs:D;): gud ni8",446,"['boy', 'loved', 'gal', 'propsd', 'bt', 'didnt', 'mind', 'gv', 'lv', 'lttrs', 'bt', 'frnds', 'threw', 'thm', 'boy', 'decided', 'aproach', 'gal', 'dt', 'time', 'truck', 'speeding', 'towards', 'gal', 'wn', 'hit', 'girl', 'boy', 'ran', 'like', 'hell', 'n', 'saved', 'asked', 'cn', 'u', 'run', 'fast', 'boy', 'replied', 'boost', 'secret', 'energy', 'n', 'instantly', 'girl', 'shouted', 'energy', 'n', 'thy', 'lived', 'happily', 'drinking', 'boost', 'evrydy', 'moral', 'story', 'hv', 'free', 'msg', 'gud']",61
+ham,Ü dun need to pick ur gf?,25,"['ü', 'dun', 'need', 'pick', 'ur', 'gf']",6
+ham,Dear where you. Call me,23,"['dear', 'call']",2
+ham,"Sir, I have been late in paying rent for the past few months and had to pay a $ &lt;#&gt;  charge. I felt it would be inconsiderate of me to nag about something you give at great cost to yourself and that's why i didnt speak up. I however am in a recession and wont be able to pay the charge this month hence my askin well ahead of month's end. Can you please help. Thanks",372,"['sir', 'late', 'paying', 'rent', 'past', 'month', 'pay', 'lt', 'gt', 'charge', 'felt', 'would', 'inconsiderate', 'nag', 'something', 'give', 'great', 'cost', 'didnt', 'speak', 'however', 'recession', 'wont', 'able', 'pay', 'charge', 'month', 'hence', 'askin', 'well', 'ahead', 'month', 'end', 'please', 'help', 'thanks']",36
+ham,Congrats kano..whr s the treat maga?,36,"['congrats', 'kano', 'whr', 'treat', 'maga']",5
+ham,10 min later k...,17,"['min', 'later', 'k']",3
+ham,Have a good evening! Ttyl,25,"['good', 'evening', 'ttyl']",3
+ham,Do u noe how 2 send files between 2 computers?,46,"['u', 'noe', 'send', 'file', 'computer']",5
+ham,How much i gave to you. Morning.,32,"['much', 'gave', 'morning']",3
+ham,Ok give me 5 minutes I think I see her. BTW you're my alibi. You were cutting my hair the whole time.,101,"['ok', 'give', 'minute', 'think', 'see', 'btw', 'alibi', 'cutting', 'hair', 'whole', 'time']",11
+ham,"I do know what u mean,  is the king of not havin credit! I'm goin2bed now. Night night sweet! Only1more sleep! ",111,"['know', 'u', 'mean', 'king', 'havin', 'credit', 'night', 'night', 'sweet', 'sleep']",10
+ham,I am joining today formally.Pls keep praying.will talk later.,61,"['joining', 'today', 'keep', 'talk', 'later']",5
+ham,How much would it cost to hire a hitman,39,"['much', 'would', 'cost', 'hire', 'hitman']",5
+ham,Just buy a pizza. Meat lovers or supreme. U get to pick.,56,"['buy', 'pizza', 'meat', 'lover', 'supreme', 'u', 'get', 'pick']",8
+ham,I think you should go the honesty road. Call the bank tomorrow. Its the tough decisions that make us great people.,114,"['think', 'go', 'honesty', 'road', 'call', 'bank', 'tomorrow', 'tough', 'decision', 'make', 'u', 'great', 'people']",13
+ham,Ü called dad oredi...,21,"['ü', 'called', 'dad', 'oredi']",4
+spam,URGENT! Your Mobile number has been awarded with a £2000 prize GUARANTEED. Call 09061790121 from land line. Claim 3030. Valid 12hrs only 150ppm,143,"['urgent', 'mobile', 'number', 'awarded', 'prize', 'guaranteed', 'call', 'land', 'line', 'claim', 'valid']",11
+spam,We tried to contact you re your reply to our offer of a Video Phone 750 anytime any network mins Half Price Line Rental Camcorder Reply or call 08000930705,155,"['tried', 'contact', 'reply', 'offer', 'video', 'phone', 'anytime', 'network', 'min', 'half', 'price', 'line', 'rental', 'camcorder', 'reply', 'call']",16
+ham,How do friends help us in problems? They give the most stupid suggestion that Lands us into another problem and helps us forgt the previous problem,147,"['friend', 'help', 'u', 'problem', 'give', 'stupid', 'suggestion', 'land', 'u', 'another', 'problem', 'help', 'u', 'forgt', 'previous', 'problem']",16
+ham,Looks like u wil b getting a headstart im leaving here bout 2.30ish but if u r desperate for my company I could head in earlier-we were goin to meet in rummer.,159,"['look', 'like', 'u', 'wil', 'b', 'getting', 'headstart', 'im', 'leaving', 'bout', 'u', 'r', 'desperate', 'company', 'could', 'head', 'goin', 'meet', 'rummer']",19
+ham,Its a part of checking IQ,25,"['part', 'checking', 'iq']",3
+spam,"URGENT! You have won a 1 week FREE membership in our £100,000 Prize Jackpot! Txt the word: CLAIM to No: 81010 T&C www.dbuk.net LCCLTD POBOX 4403LDNW1A7RW18",155,"['urgent', 'week', 'free', 'membership', 'prize', 'jackpot', 'txt', 'word', 'claim', 'c', 'lccltd', 'pobox']",12
+spam,RCT' THNQ Adrian for U text. Rgds Vatian,40,"['rct', 'thnq', 'adrian', 'u', 'text', 'rgds', 'vatian']",7
+ham,"Alright we're hooked up, where you guys at",42,"['alright', 'hooked', 'guy']",3
+ham,So why didnt you holla?,23,"['didnt', 'holla']",2
+ham,"Beautiful Truth against Gravity.. Read carefully: ""Our heart feels light when someone is in it.. But it feels very heavy when someone leaves it.."" GOODMORNING",158,"['beautiful', 'truth', 'gravity', 'read', 'carefully', 'heart', 'feel', 'light', 'someone', 'feel', 'heavy', 'someone', 'leaf', 'goodmorning']",14
+ham,"Thanks da thangam, i feel very very happy dear. I also miss you da.",67,"['thanks', 'da', 'thangam', 'feel', 'happy', 'dear', 'also', 'miss', 'da']",9
+ham,Gudnite....tc...practice going on,33,"['gudnite', 'tc', 'practice', 'going']",4
+ham,"That's cool he'll be here all night, lemme know when you're around",66,"['cool', 'night', 'lem', 'know', 'around']",5
+ham,Did u find out what time the bus is at coz i need to sort some stuff out.,73,"['u', 'find', 'time', 'bus', 'coz', 'need', 'sort', 'stuff']",8
+ham,You can never do NOTHING,24,"['never', 'nothing']",2
+spam,Refused a loan? Secured or Unsecured? Can't get credit? Call free now 0800 195 6669 or text back 'help' & we will!,114,"['refused', 'loan', 'secured', 'unsecured', 'ca', 'get', 'credit', 'call', 'free', 'text', 'back']",11
+spam,Free 1st week entry 2 TEXTPOD 4 a chance 2 win 40GB iPod or £250 cash every wk. Txt VPOD to 81303 Ts&Cs www.textpod.net custcare 08712405020.,141,"['free', 'week', 'entry', 'textpod', 'chance', 'win', 'ipod', 'cash', 'every', 'wk', 'txt', 'vpod', 't', 'c', 'custcare']",15
+ham,I cant pick the phone right now. Pls send a message,51,"['cant', 'pick', 'phone', 'right', 'pls', 'send', 'message']",7
+ham,What happen dear. Why you silent. I am tensed,45,"['happen', 'dear', 'silent', 'tensed']",4
+ham,Are you this much buzy,22,"['much', 'buzy']",2
+ham,All day working day:)except saturday and sunday..,49,"['day', 'working', 'day', 'except', 'saturday', 'sunday']",6
+spam,Hi 07734396839 IBH Customer Loyalty Offer: The NEW NOKIA6600 Mobile from ONLY £10 at TXTAUCTION!Txt word:START to No:81151 & get Yours Now!4T&,142,"['hi', 'ibh', 'customer', 'loyalty', 'offer', 'new', 'mobile', 'txtauction', 'txt', 'word', 'start', 'get']",12
+ham,"He is impossible to argue with and he always treats me like his sub, like he never released me ... Which he did and I will remind him of that if necessary",154,"['impossible', 'argue', 'always', 'treat', 'like', 'sub', 'like', 'never', 'released', 'remind', 'necessary']",11
+ham,"its cool but tyler had to take off so we're gonna buy for him and drop it off at his place later tonight. Our total order is a quarter, you got enough?",151,"['cool', 'tyler', 'take', 'gon', 'na', 'buy', 'drop', 'place', 'later', 'tonight', 'total', 'order', 'quarter', 'got', 'enough']",15
+ham,Ok i also wan 2 watch e 9 pm show...,36,"['ok', 'also', 'wan', 'watch', 'e', 'pm', 'show']",7
+ham,Yes I know the cheesy songs from frosty the snowman :),54,"['yes', 'know', 'cheesy', 'song', 'frosty', 'snowman']",6
+ham,Ok anyway no need to change with what you said,46,"['ok', 'anyway', 'need', 'change', 'said']",5
+ham,Yes i have. So that's why u texted. Pshew...missing you so much,63,"['yes', 'u', 'texted', 'pshew', 'missing', 'much']",6
+ham,"Honey, can you pls find out how much they sell Predicte in Nigeria. And how many times can it be used. Its very important to have a reply before monday",151,"['honey', 'pls', 'find', 'much', 'sell', 'predicte', 'nigeria', 'many', 'time', 'used', 'important', 'reply', 'monday']",13
+ham,Or ill be a little closer like at the bus stop on the same street,65,"['ill', 'little', 'closer', 'like', 'bus', 'stop', 'street']",7
+ham,Did you see that film:),23,"['see', 'film']",2
+ham, what number do u live at? Is it 11?,36,"['number', 'u', 'live']",3
+ham,What you doing?how are you?,27,[],0
+ham,"Bloody hell, cant believe you forgot my surname Mr . Ill give u a clue, its spanish and begins with m... ",105,"['bloody', 'hell', 'cant', 'believe', 'forgot', 'surname', 'mr', 'ill', 'give', 'u', 'clue', 'spanish', 'begin']",13
+ham,"Wishing you and your family Merry ""X"" mas and HAPPY NEW Year in advance..",73,"['wishing', 'family', 'merry', 'x', 'ma', 'happy', 'new', 'year', 'advance']",9
+ham,Also andros ice etc etc,23,"['also', 'andros', 'ice', 'etc', 'etc']",5
+ham,I sent your maga that money yesterday oh.,41,"['sent', 'maga', 'money', 'yesterday', 'oh']",5
+ham,AH POOR BABY!HOPE URFEELING BETTERSN LUV! PROBTHAT OVERDOSE OF WORK HEY GO CAREFUL SPK 2 U SN LOTS OF LOVEJEN XXX.,114,"['ah', 'poor', 'baby', 'hope', 'urfeeling', 'bettersn', 'luv', 'probthat', 'overdose', 'work', 'hey', 'go', 'careful', 'spk', 'u', 'sn', 'lot', 'lovejen', 'xxx']",19
+spam,Congratulations ur awarded 500 of CD vouchers or 125gift guaranteed & Free entry 2 100 wkly draw txt MUSIC to 87066 TnCs www.Ldew.com1win150ppmx3age16,150,"['congratulation', 'ur', 'awarded', 'cd', 'voucher', 'guaranteed', 'free', 'entry', 'wkly', 'draw', 'txt', 'music', 'tncs']",13
+ham,O. Well uv causes mutations. Sunscreen is like essential thesedays,66,"['well', 'uv', 'cause', 'mutation', 'sunscreen', 'like', 'essential', 'thesedays']",8
+ham,Hey so this sat are we going for the intro pilates only? Or the kickboxing too? ,80,"['hey', 'sat', 'going', 'intro', 'pilate', 'kickboxing']",6
+ham,You want to go? ,16,"['want', 'go']",2
+spam,Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's,155,"['free', 'entry', 'wkly', 'comp', 'win', 'fa', 'cup', 'final', 'tkts', 'may', 'text', 'fa', 'receive', 'entry', 'question', 'std', 'txt', 'rate', 'c', 'apply']",20
+ham,Hey cutie. How goes it? Here in WALES its kinda ok. There is like hills and shit but i still avent killed myself. ,114,"['hey', 'cutie', 'go', 'wale', 'kinda', 'ok', 'like', 'hill', 'shit', 'still', 'avent', 'killed']",12
+ham,"I'm in a meeting, call me later at",34,"['meeting', 'call', 'later']",3
+ham,Can you open the door?,22,"['open', 'door']",2
+ham,He needs to stop going to bed and make with the fucking dealing,63,"['need', 'stop', 'going', 'bed', 'make', 'fucking', 'dealing']",7
+ham,Company is very good.environment is terrific and food is really nice:),70,"['company', 'terrific', 'food', 'really', 'nice']",5
+ham,Wot about on wed nite I am 3 then but only til 9!,49,"['wot', 'wed', 'nite', 'til']",4
+ham,Black shirt n blue jeans... I thk i c ü...,42,"['black', 'shirt', 'n', 'blue', 'jean', 'thk', 'c', 'ü']",8
+ham,"Hmm, too many of them unfortunately... Pics obviously arent hot cakes. Its kinda fun tho",88,"['hmm', 'many', 'unfortunately', 'pic', 'obviously', 'arent', 'hot', 'cake', 'kinda', 'fun', 'tho']",11
+ham,Your board is working fine. The issue of overheating is also reslove. But still software inst is pending. I will come around 8'o clock.,135,"['board', 'working', 'fine', 'issue', 'overheating', 'also', 'reslove', 'still', 'software', 'inst', 'pending', 'come', 'around', 'clock']",14
+ham,Then ü ask dad to pick ü up lar... Ü wan 2 stay until 6 meh...,62,"['ü', 'ask', 'dad', 'pick', 'ü', 'lar', 'ü', 'wan', 'stay', 'meh']",10
+ham,Hmmm.but you should give it on one day..,40,"['give', 'one', 'day']",3
+ham,Why do you ask princess?,24,"['ask', 'princess']",2
+ham,Can you do online transaction?,30,"['online', 'transaction']",2
+spam,"Rock yr chik. Get 100's of filthy films &XXX pics on yr phone now. rply FILTH to 69669. Saristar Ltd, E14 9YT 08701752560. 450p per 5 days. Stop2 cancel",152,"['rock', 'yr', 'chik', 'get', 'filthy', 'film', 'xxx', 'pic', 'yr', 'phone', 'rply', 'filth', 'saristar', 'ltd', 'per', 'day', 'cancel']",17
+ham,"When you just put in the + sign, choose my number and the pin will show. Right?",79,"['put', 'sign', 'choose', 'number', 'pin', 'show', 'right']",7
+ham,dont make ne plans for nxt wknd coz she wants us to come down then ok,69,"['dont', 'make', 'ne', 'plan', 'nxt', 'wknd', 'coz', 'want', 'u', 'come', 'ok']",11
+spam,Urgent Please call 09066612661 from landline. £5000 cash or a luxury 4* Canary Islands Holiday await collection. T&Cs SAE award. 20M12AQ. 150ppm. 16+ “,151,"['urgent', 'please', 'call', 'landline', 'cash', 'luxury', 'canary', 'island', 'holiday', 'await', 'collection', 'c', 'sae', 'award']",14
+ham,Alrite jod hows the revision goin? Keris bin doin a smidgin. N e way u wanna cum over after college?xx,102,"['alrite', 'jod', 'hows', 'revision', 'goin', 'keris', 'bin', 'doin', 'smidgin', 'n', 'e', 'way', 'u', 'wan', 'na', 'cum', 'college', 'xx']",18
+spam,Todays Voda numbers ending with 7634 are selected to receive a £350 reward. If you have a match please call 08712300220 quoting claim code 7684 standard rates apply.,165,"['today', 'voda', 'number', 'ending', 'selected', 'receive', 'reward', 'match', 'please', 'call', 'quoting', 'claim', 'code', 'standard', 'rate', 'apply']",16
+ham,"Living is very simple.. Loving is also simple.. Laughing is too simple.. Winning is tooo simple.. But, Being 'SIMPLE' is very difficult...;-) :-)",145,"['living', 'simple', 'loving', 'also', 'simple', 'laughing', 'simple', 'winning', 'tooo', 'simple', 'difficult']",11
+ham,Send me your id and password,28,"['send', 'id', 'password']",3
+ham,Good day to You too.Pray for me.Remove the teeth as its painful maintaining other stuff.,88,"['good', 'day', 'teeth', 'painful', 'maintaining', 'stuff']",6
+ham,HI DARLIN ITS KATE ARE U UP FOR DOIN SOMETHIN TONIGHT? IM GOING TO A PUB CALLED THE SWAN OR SOMETHING WITH MY PARENTS FOR ONE DRINK SO PHONE ME IF U CAN,152,"['hi', 'darlin', 'kate', 'u', 'doin', 'somethin', 'tonight', 'im', 'going', 'pub', 'called', 'swan', 'something', 'parent', 'one', 'drink', 'phone', 'u']",18
+ham,I take it the post has come then! You must have 1000s of texts now! Happy reading. My one from wiv hello caroline at the end is my favourite. Bless him,151,"['take', 'post', 'come', 'must', 'text', 'happy', 'reading', 'one', 'wiv', 'hello', 'caroline', 'end', 'favourite', 'bless']",14
+ham,Just haven't decided where yet eh ?,35,"['decided', 'yet', 'eh']",3
+ham,"Aight, call me once you're close",32,"['aight', 'call', 'close']",3
+spam,IMPORTANT MESSAGE. This is a final contact attempt. You have important messages waiting out our customer claims dept. Expires 13/4/04. Call 08717507382 NOW!,156,"['important', 'message', 'final', 'contact', 'attempt', 'important', 'message', 'waiting', 'customer', 'claim', 'dept', 'expires', 'call']",13
+ham,"As usual..iam fine, happy &amp; doing well..:)",46,"['usual', 'iam', 'fine', 'happy', 'amp', 'well']",6
+ham,Are you not around or just still asleep? :V,43,"['around', 'still', 'asleep', 'v']",4
+ham,Any chance you might have had with me evaporated as soon as you violated my privacy by stealing my phone number from your employer's paperwork. Not cool at all. Please do not contact me again or I will report you to your supervisor.,232,"['chance', 'might', 'evaporated', 'soon', 'violated', 'privacy', 'stealing', 'phone', 'number', 'employer', 'paperwork', 'cool', 'please', 'contact', 'report', 'supervisor']",16
+spam,WIN a £200 Shopping spree every WEEK Starting NOW. 2 play text STORE to 88039. SkilGme. TsCs08714740323 1Winawk! age16 £1.50perweeksub.,135,"['win', 'shopping', 'spree', 'every', 'week', 'starting', 'play', 'text', 'store', 'skilgme']",10
+ham,We not leaving yet. Ok lor then we go elsewhere n eat. U thk...,63,"['leaving', 'yet', 'ok', 'lor', 'go', 'elsewhere', 'n', 'eat', 'u', 'thk']",10
+ham,Im at arestaurant eating squid! i will be out about 10:30 wanna dosomething or is that to late?,95,"['im', 'arestaurant', 'eating', 'squid', 'wan', 'na', 'dosomething', 'late']",8
+ham,When ü login dat time... Dad fetching ü home now?,49,"['ü', 'login', 'dat', 'time', 'dad', 'fetching', 'ü', 'home']",8
+ham,"Yeah I think my usual guy's still passed out from last night, if you get ahold of anybody let me know and I'll throw down",121,"['yeah', 'think', 'usual', 'guy', 'still', 'passed', 'last', 'night', 'get', 'ahold', 'anybody', 'let', 'know', 'throw']",14
+ham,I ask if u meeting da ge tmr nite...,36,"['ask', 'u', 'meeting', 'da', 'ge', 'tmr', 'nite']",7
+ham,I'm already back home so no probably not,40,"['already', 'back', 'home', 'probably']",4
+ham,Yun ah.now ü wkg where?btw if ü go nus sc. Ü wana specialise in wad?,68,"['yun', 'ü', 'wkg', 'btw', 'ü', 'go', 'nu', 'sc', 'ü', 'wana', 'specialise', 'wad']",12
+ham,"Ha. You don‘t know either. I did a a clever but simple thing with pears the other day, perfect for christmas.",109,"['ha', 'know', 'either', 'clever', 'simple', 'thing', 'pear', 'day', 'perfect', 'christmas']",10
+ham,No need to buy lunch for me.. I eat maggi mee..,47,"['need', 'buy', 'lunch', 'eat', 'maggi', 'mee']",6
+ham,Hey tmr maybe can meet you at yck,33,"['hey', 'tmr', 'maybe', 'meet', 'yck']",5
+ham,LOL that would be awesome payback.,34,"['lol', 'would', 'awesome', 'payback']",4
+ham,It's ok i noe u're busy but i'm really too bored so i msg u. I oso dunno wat colour she choose 4 me one.,104,"['ok', 'noe', 'u', 'busy', 'really', 'bored', 'msg', 'oso', 'dunno', 'wat', 'colour', 'choose', 'one']",13
+spam,"Hi babe its Jordan, how r u? Im home from abroad and lonely, text me back if u wanna chat xxSP visionsms.com Text stop to stopCost 150p 08712400603",147,"['hi', 'babe', 'jordan', 'r', 'u', 'im', 'home', 'abroad', 'lonely', 'text', 'back', 'u', 'wan', 'na', 'chat', 'xxsp', 'text', 'stop', 'stopcost']",19
+ham,Think I could stop by in like an hour or so? My roommate's looking to stock up for a trip,89,"['think', 'could', 'stop', 'like', 'hour', 'roommate', 'looking', 'stock', 'trip']",9
+ham,Oh thanks a lot..i already bought 2 eggs ..,43,"['oh', 'thanks', 'lot', 'already', 'bought', 'egg']",6
+ham,Hey we can go jazz power yoga hip hop kb and yogasana ,54,"['hey', 'go', 'jazz', 'power', 'yoga', 'hip', 'hop', 'kb', 'yogasana']",9
+ham, &lt;DECIMAL&gt; m but its not a common car here so its better to buy from china or asia. Or if i find it less expensive. I.ll holla,132,"['lt', 'decimal', 'gt', 'common', 'car', 'better', 'buy', 'china', 'asia', 'find', 'less', 'expensive', 'holla']",13
+spam,+449071512431 URGENT! This is the 2nd attempt to contact U!U have WON £1250 CALL 09071512433 b4 050703 T&CsBCM4235WC1N3XX. callcost 150ppm mobilesvary. max£7. 50,161,"['urgent', 'attempt', 'contact', 'u', 'u', 'call', 'callcost', 'mobilesvary']",8
+ham,Have you always been saying welp?,33,"['always', 'saying', 'welp']",3
+ham,Surely result will offer:),26,"['surely', 'result', 'offer']",3
+ham,How much you got for cleaning,29,"['much', 'got', 'cleaning']",3
+ham,Goodmorning sleeping ga.,24,"['goodmorning', 'sleeping', 'ga']",3
+ham,:-) :-),7,[],0
+ham,Staff of placement training in Amrita college.,46,"['staff', 'placement', 'training', 'amrita', 'college']",5
+ham,Yar he quite clever but aft many guesses lor. He got ask me 2 bring but i thk darren not so willing 2 go. Aiya they thk leona still not attach wat.,147,"['yar', 'quite', 'clever', 'aft', 'many', 'guess', 'lor', 'got', 'ask', 'bring', 'thk', 'darren', 'willing', 'go', 'aiya', 'thk', 'leona', 'still', 'attach', 'wat']",20
+ham,Did u receive my msg?,21,"['u', 'receive', 'msg']",3
+ham,Wait.i will come out.. &lt;#&gt;  min:),39,"['come', 'lt', 'gt', 'min']",4
+ham,Hmmm:)how many players selected?,32,"['hmmm', 'many', 'player', 'selected']",4
+ham,Sac will score big hundred.he is set batsman:-),47,"['sac', 'score', 'big', 'set', 'batsman']",5
+ham,Cancel cheyyamo?and get some money back?,40,"['cancel', 'cheyyamo', 'get', 'money', 'back']",5
+spam,Marvel Mobile Play the official Ultimate Spider-man game (£4.50) on ur mobile right now. Text SPIDER to 83338 for the game & we ll send u a FREE 8Ball wallpaper,160,"['marvel', 'mobile', 'play', 'official', 'ultimate', 'game', 'ur', 'mobile', 'right', 'text', 'spider', 'game', 'send', 'u', 'free', 'wallpaper']",16
+spam,YES! The only place in town to meet exciting adult singles is now in the UK. Txt CHAT to 86688 now! 150p/Msg.,109,"['yes', 'place', 'town', 'meet', 'exciting', 'adult', 'single', 'uk', 'txt', 'chat']",10
+ham,As per your request 'Maangalyam (Alaipayuthe)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune,136,"['per', 'request', 'alaipayuthe', 'set', 'callertune', 'caller', 'press', 'copy', 'friend', 'callertune']",10
+ham,How i noe... She's in da car now... Later then c lar... I'm wearing shorts...,77,"['noe', 'da', 'car', 'later', 'c', 'lar', 'wearing', 'short']",8
+spam,"all the lastest from Stereophonics, Marley, Dizzee Racal, Libertines and The Strokes! Win Nookii games with Flirt!! Click TheMob WAP Bookmark or text WAP to 82468",162,"['lastest', 'stereophonics', 'marley', 'dizzee', 'racal', 'libertine', 'stroke', 'win', 'nookii', 'game', 'flirt', 'click', 'themob', 'wap', 'bookmark', 'text', 'wap']",17
+ham,I thk u dun haf 2 hint in e forum already lor... Cos i told ron n darren is going 2 tell shuhui.,96,"['thk', 'u', 'dun', 'haf', 'hint', 'e', 'forum', 'already', 'lor', 'co', 'told', 'ron', 'n', 'darren', 'going', 'tell', 'shuhui']",17
+ham,"no, i *didn't* mean to post it. I wrote it, and like so many other times i've ritten stuff to you, i let it sit there. it WAS what i was feeling at the time. I was angry. Before i left, i hit send, then stop. It wasn't there. I checked on my phone when i got to my car. It wasn't there. You said you didn't sleep, you were bored. So why wouldn't THAT be the time to clean, fold laundry, etc.? At least make the bed?",415,"['mean', 'post', 'wrote', 'like', 'many', 'time', 'ritten', 'stuff', 'let', 'sit', 'feeling', 'time', 'angry', 'left', 'hit', 'send', 'stop', 'checked', 'phone', 'got', 'car', 'said', 'sleep', 'bored', 'would', 'time', 'clean', 'fold', 'laundry', 'least', 'make', 'bed']",32
+ham,I think asking for a gym is the excuse for lazy people. I jog.,62,"['think', 'asking', 'gym', 'excuse', 'lazy', 'people', 'jog']",7
+ham,Future is not what we planned for tomorrow.....! it is the result of what we do today...! Do the best in present... enjoy the future.,133,"['future', 'planned', 'tomorrow', 'result', 'today', 'best', 'present', 'enjoy', 'future']",9
+ham,LOOK AT THE FUCKIN TIME. WHAT THE FUCK YOU THINK IS UP,54,"['look', 'fuckin', 'time', 'fuck', 'think']",5
+ham,Can a not?,10,[],0
+ham,Yes fine ,9,"['yes', 'fine']",2
+ham,"Well, I have to leave for my class babe ... You never came back to me ... :-( ... Hope you have a nice sleep, my love",117,"['well', 'leave', 'class', 'babe', 'never', 'came', 'back', 'hope', 'nice', 'sleep', 'love']",11
+spam,Get ur 1st RINGTONE FREE NOW! Reply to this msg with TONE. Gr8 TOP 20 tones to your phone every week just £1.50 per wk 2 opt out send STOP 08452810071 16,153,"['get', 'ur', 'ringtone', 'free', 'reply', 'msg', 'tone', 'top', 'tone', 'phone', 'every', 'week', 'per', 'wk', 'opt', 'send', 'stop']",17
+ham,Darren was saying dat if u meeting da ge den we dun meet 4 dinner. Cos later u leave xy will feel awkward. Den u meet him 4 lunch lor.,134,"['darren', 'saying', 'dat', 'u', 'meeting', 'da', 'ge', 'den', 'dun', 'meet', 'dinner', 'co', 'later', 'u', 'leave', 'xy', 'feel', 'awkward', 'den', 'u', 'meet', 'lunch', 'lor']",23
+ham,Hi :)finally i completed the course:),37,"['hi', 'finally', 'completed', 'course']",4
+ham,Then why you came to hostel.,28,"['came', 'hostel']",2
+ham,here is my new address -apples&pairs&all that malarky,53,"['new', 'address', 'pair', 'malarky']",4
+spam,<Forwarded from 88877>FREE entry into our £250 weekly comp just send the word ENTER to 88877 NOW. 18 T&C www.textcomp.com,121,"['forwarded', 'free', 'entry', 'weekly', 'comp', 'send', 'word', 'enter', 'c']",9
+ham,Thanks for being there for me just to talk to on saturday. You are very dear to me. I cherish having you as a brother and role model.,133,"['thanks', 'talk', 'saturday', 'dear', 'cherish', 'brother', 'role', 'model']",8
+ham,I not free today i haf 2 pick my parents up tonite...,53,"['free', 'today', 'haf', 'pick', 'parent', 'tonite']",6
+ham,"Oh, yes, I've just been a little under the weather so i've kind of been coccooning at home",90,"['oh', 'yes', 'little', 'weather', 'kind', 'coccooning', 'home']",7
+ham,Still in the area of the restaurant. Ill try to come back soon,62,"['still', 'area', 'restaurant', 'ill', 'try', 'come', 'back', 'soon']",8
+ham,I can do that! I want to please you both inside and outside the bedroom...,74,"['want', 'please', 'inside', 'outside', 'bedroom']",5
+ham,I'll probably be around mu a lot,32,"['probably', 'around', 'mu', 'lot']",4
+ham,Just sing HU. I think its also important to find someone female that know the place well preferably a citizen that is also smart to help you navigate through. Even things like choosing a phone plan require guidance. When in doubt ask especially girls.,251,"['sing', 'hu', 'think', 'also', 'important', 'find', 'someone', 'female', 'know', 'place', 'well', 'preferably', 'citizen', 'also', 'smart', 'help', 'navigate', 'even', 'thing', 'like', 'choosing', 'phone', 'plan', 'require', 'guidance', 'doubt', 'ask', 'especially', 'girl']",29
+spam,You have 1 new voicemail. Please call 08719181513.,50,"['new', 'voicemail', 'please', 'call']",4
+ham,What's nannys address?,22,"['nanny', 'address']",2
+ham,"Ever green quote ever told by Jerry in cartoon ""A Person Who Irritates u Always Is the one Who Loves u Vry Much But Fails to Express It...!..!! :-) :-) gud nyt",159,"['ever', 'green', 'quote', 'ever', 'told', 'jerry', 'cartoon', 'person', 'irritates', 'u', 'always', 'one', 'love', 'u', 'vry', 'much', 'fails', 'express', 'gud', 'nyt']",20
+spam,"URGENT!: Your Mobile No. was awarded a £2,000 Bonus Caller Prize on 02/09/03! This is our 2nd attempt to contact YOU! Call 0871-872-9755 BOX95QU",144,"['urgent', 'mobile', 'awarded', 'bonus', 'caller', 'prize', 'attempt', 'contact', 'call']",9
+ham,Raji..pls do me a favour. Pls convey my Birthday wishes to Nimya. Pls. Today is her birthday.,93,"['raji', 'pls', 'favour', 'pls', 'convey', 'birthday', 'wish', 'nimya', 'pls', 'today', 'birthday']",11
+ham,I want to be there so i can kiss you and feel you next to me,60,"['want', 'kiss', 'feel', 'next']",4
+ham,R u still working now?,22,"['r', 'u', 'still', 'working']",4
+ham,Tell them u have a headache and just want to use 1 hour of sick time.,69,"['tell', 'u', 'headache', 'want', 'use', 'hour', 'sick', 'time']",8
+ham,You have registered Sinco as Payee. Log in at icicibank.com and enter URN  &lt;#&gt;  to confirm. Beware of frauds. Do NOT share or disclose URN to anyone.,155,"['registered', 'sinco', 'payee', 'log', 'enter', 'urn', 'lt', 'gt', 'confirm', 'beware', 'fraud', 'share', 'disclose', 'urn', 'anyone']",15
+ham,"Jay wants to work out first, how's 4 sound?",43,"['jay', 'want', 'work', 'first', 'sound']",5
+spam,UR GOING 2 BAHAMAS! CallFREEFONE 08081560665 and speak to a live operator to claim either Bahamas cruise of£2000 CASH 18+only. To opt out txt X to 07786200117,158,"['ur', 'going', 'bahamas', 'callfreefone', 'speak', 'live', 'operator', 'claim', 'either', 'bahamas', 'cruise', 'cash', 'opt', 'txt', 'x']",15
+ham,Well she's in for a big surprise!,33,"['well', 'big', 'surprise']",3
+ham,Eh u remember how 2 spell his name... Yes i did. He v naughty make until i v wet.,81,"['eh', 'u', 'remember', 'spell', 'name', 'yes', 'v', 'naughty', 'make', 'v', 'wet']",11
+ham,Ok i've sent u da latest version of da project.,47,"['ok', 'sent', 'u', 'da', 'latest', 'version', 'da', 'project']",8
+ham,Where do you need to go to get it?,34,"['need', 'go', 'get']",3
+spam,FreeMsg>FAV XMAS TONES!Reply REAL,33,"['freemsg', 'fav', 'xmas', 'tone', 'reply', 'real']",6
+ham,"I call you later, don't have network. If urgnt, sms me.",55,"['call', 'later', 'network', 'urgnt', 'sm']",5
+ham,i cant talk to you now.i will call when i can.dont keep calling.,64,"['cant', 'talk', 'call', 'keep', 'calling']",5
+ham,Babe ? I lost you ... :-(,25,"['babe', 'lost']",2
+ham,What your plan for pongal?,26,"['plan', 'pongal']",2
+ham,they released another Italian one today and it has a cosign option,66,"['released', 'another', 'italian', 'one', 'today', 'cosign', 'option']",7
+ham,"Hiya, sorry didn't hav signal. I haven't seen or heard from and neither has, which is unusual in itself! I'll put on the case and get him to sort it out! Hugs and snogs.",169,"['hiya', 'sorry', 'hav', 'signal', 'seen', 'heard', 'neither', 'unusual', 'put', 'case', 'get', 'sort', 'hug', 'snogs']",14
+ham,Shuhui say change 2 suntec steamboat? U noe where? Where r u now?,65,"['shuhui', 'say', 'change', 'suntec', 'steamboat', 'u', 'noe', 'r', 'u']",9
+ham,Hhahhaahahah rofl wtf nig was leonardo in your room or something,64,"['hhahhaahahah', 'rofl', 'wtf', 'nig', 'leonardo', 'room', 'something']",7
+ham,"Not really dude, have no friends i'm afraid :(",46,"['really', 'dude', 'friend', 'afraid']",4
+ham,"Idk. You keep saying that you're not, but since he moved, we keep butting heads over freedom vs. responsibility. And i'm tired. I have so much other shit to deal with that i'm barely keeping myself together once this gets added to it.",234,"['idk', 'keep', 'saying', 'since', 'moved', 'keep', 'butting', 'head', 'freedom', 'responsibility', 'tired', 'much', 'shit', 'deal', 'barely', 'keeping', 'together', 'get', 'added']",19
+spam,Please call our customer service representative on FREEPHONE 0808 145 4742 between 9am-11pm as you have WON a guaranteed £1000 cash or £5000 prize!,147,"['please', 'call', 'customer', 'service', 'representative', 'freephone', 'guaranteed', 'cash', 'prize']",9
+ham,No da if you run that it activate the full version da.,54,"['da', 'run', 'activate', 'full', 'version', 'da']",6
+ham,I cant pick the phone right now. Pls send a message,51,"['cant', 'pick', 'phone', 'right', 'pls', 'send', 'message']",7
+ham,Apps class varaya elaya.,24,"['apps', 'class', 'varaya', 'elaya']",4
+ham,Dear we are going to our rubber place,37,"['dear', 'going', 'rubber', 'place']",4
+spam,Please call our customer service representative on FREEPHONE 0808 145 4742 between 9am-11pm as you have WON a guaranteed £1000 cash or £5000 prize!,147,"['please', 'call', 'customer', 'service', 'representative', 'freephone', 'guaranteed', 'cash', 'prize']",9
+ham,"7 wonders in My WORLD 7th You 6th Ur style 5th Ur smile 4th Ur Personality 3rd Ur Nature 2nd Ur SMS and 1st ""Ur Lovely Friendship""... good morning dear",151,"['wonder', 'world', 'ur', 'style', 'ur', 'smile', 'ur', 'personality', 'ur', 'nature', 'ur', 'sm', 'ur', 'lovely', 'friendship', 'good', 'morning', 'dear']",18
+ham,"Height of Confidence: All the Aeronautics professors wer calld &amp; they wer askd 2 sit in an aeroplane. Aftr they sat they wer told dat the plane ws made by their students. Dey all hurried out of d plane.. Bt only 1 didnt move... He said:""if it is made by my students,this wont even start........ Datz confidence..",316,"['height', 'confidence', 'aeronautics', 'professor', 'wer', 'calld', 'amp', 'wer', 'askd', 'sit', 'aeroplane', 'aftr', 'sat', 'wer', 'told', 'dat', 'plane', 'w', 'made', 'student', 'dey', 'hurried', 'plane', 'bt', 'didnt', 'move', 'said', 'made', 'student', 'wont', 'even', 'start', 'datz', 'confidence']",34
+ham,"Okay, good, no problem, and thanx!",34,"['okay', 'good', 'problem', 'thanx']",4
+ham,"Nimbomsons. Yep phone knows that one. Obviously, cos thats a real word",70,"['nimbomsons', 'yep', 'phone', 'know', 'one', 'obviously', 'co', 'thats', 'real', 'word']",10
+ham,Genius what's up. How your brother. Pls send his number to my skype.,68,"['genius', 'brother', 'pls', 'send', 'number', 'skype']",6
+ham,"Christmas is An occasion that is Celebrated as a Reflection of UR... Values..., Desires..., Affections...&amp; Traditions.... Have an ideal Christmas...",152,"['christmas', 'occasion', 'celebrated', 'reflection', 'ur', 'value', 'desire', 'affection', 'amp', 'tradition', 'ideal', 'christmas']",12
+ham,Good Morning my Dear........... Have a great &amp; successful day.,66,"['good', 'morning', 'dear', 'great', 'amp', 'successful', 'day']",7
+ham,Sure but since my parents will be working on Tuesday I don't really need a cover story,86,"['sure', 'since', 'parent', 'working', 'tuesday', 'really', 'need', 'cover', 'story']",9
+ham,Having lunch:)you are not in online?why?,40,"['lunch', 'online']",2
+ham,We'll you pay over like  &lt;#&gt; yrs so its not too difficult,63,"['pay', 'like', 'lt', 'gt', 'yr', 'difficult']",6
+ham,Hows the pain dear?y r u smiling?,33,"['hows', 'pain', 'dear', 'r', 'u', 'smiling']",6
+ham,I called and said all to him:)then he have to choose this future.,65,"['called', 'said', 'choose', 'future']",4
+ham,Lol yep did that yesterday. Already got my fireplace. Now its just another icon sitting there for me.,101,"['lol', 'yep', 'yesterday', 'already', 'got', 'fireplace', 'another', 'icon', 'sitting']",9
+ham,Come aftr  &lt;DECIMAL&gt; ..now i m cleaning the house,55,"['come', 'aftr', 'lt', 'decimal', 'gt', 'cleaning', 'house']",7
+ham,"How is my boy? No sweet words left for me this morning ... *sighs* ... How goes you day, my love ? Did you start your studying?",127,"['boy', 'sweet', 'word', 'left', 'morning', 'sigh', 'go', 'day', 'love', 'start', 'studying']",11
+ham,"Sorry da thangam, very very sorry i am held up with prasad.",59,"['sorry', 'da', 'thangam', 'sorry', 'held', 'prasad']",6
+ham,I.ll hand her my phone to chat wit u,36,"['hand', 'phone', 'chat', 'wit', 'u']",5
+ham,I'm not. She lip synced with shangela.,38,"['lip', 'synced', 'shangela']",3
+ham,Do you always celebrate NY's with your family ?,47,"['always', 'celebrate', 'ny', 'family']",4
+ham,Babe ! What are you doing ? Where are you ? Who are you talking to ? Do you think of me ? Are you being a good boy? Are you missing me? Do you love me ?,152,"['babe', 'talking', 'think', 'good', 'boy', 'missing', 'love']",7
+ham,Whos this am in class:-),24,"['who', 'class']",2
+ham,Hey company elama po mudyadhu.,30,"['hey', 'company', 'elama', 'po', 'mudyadhu']",5
+ham,How r ü going to send it to me?,31,"['r', 'ü', 'going', 'send']",4
+spam,Get your garden ready for summer with a FREE selection of summer bulbs and seeds worth £33:50 only with The Scotsman this Saturday. To stop go2 notxt.co.uk,155,"['get', 'garden', 'ready', 'summer', 'free', 'selection', 'summer', 'bulb', 'seed', 'worth', 'scotsman', 'saturday', 'stop']",13
+ham,I wont do anything de.,22,"['wont', 'anything', 'de']",3
+ham,Ü go home liao? Ask dad to pick me up at 6...,45,"['ü', 'go', 'home', 'liao', 'ask', 'dad', 'pick']",7
+ham,Good. do you think you could send me some pix? I would love to see your top and bottom...,89,"['good', 'think', 'could', 'send', 'pix', 'would', 'love', 'see', 'top', 'bottom']",10
+ham,She.s fine. I have had difficulties with her phone. It works with mine. Can you pls send her another friend request.,116,"['fine', 'difficulty', 'phone', 'work', 'mine', 'pls', 'send', 'another', 'friend', 'request']",10
+ham,Jus finish blowing my hair. U finish dinner already?,52,"['jus', 'finish', 'blowing', 'hair', 'u', 'finish', 'dinner', 'already']",8
+spam,PRIVATE! Your 2003 Account Statement for 07973788240 shows 800 un-redeemed S. I. M. points. Call 08715203649 Identifier Code: 40533 Expires 31/10/04,148,"['private', 'account', 'statement', 'show', 'point', 'call', 'identifier', 'code', 'expires']",9
+ham,Today iZ Yellow rose day. If u love my frndship give me 1 misscall &amp; send this to ur frndZ &amp; See how many miss calls u get. If u get 6missed U marry ur Lover.,166,"['today', 'iz', 'yellow', 'rose', 'day', 'u', 'love', 'frndship', 'give', 'misscall', 'amp', 'send', 'ur', 'frndz', 'amp', 'see', 'many', 'miss', 'call', 'u', 'get', 'u', 'get', 'u', 'marry', 'ur', 'lover']",27
+spam,Bought one ringtone and now getting texts costing 3 pound offering more tones etc,81,"['bought', 'one', 'ringtone', 'getting', 'text', 'costing', 'pound', 'offering', 'tone', 'etc']",10
+ham,Can't. I feel nauseous. I'm so pissed. I didn't eat any sweets all week cause today I was planning to pig out. I was dieting all week. And now I'm not hungry :/,160,"['ca', 'feel', 'nauseous', 'pissed', 'eat', 'sweet', 'week', 'cause', 'today', 'planning', 'pig', 'dieting', 'week', 'hungry']",14
+spam,ringtoneking 84484,18,['ringtoneking'],1
+ham,We not watching movie already. Xy wants 2 shop so i'm shopping w her now.,73,"['watching', 'movie', 'already', 'xy', 'want', 'shop', 'shopping', 'w']",8
+ham,Were trying to find a Chinese food place around here,52,"['trying', 'find', 'chinese', 'food', 'place', 'around']",6
+ham,This weekend is fine (an excuse not to do too much decorating),62,"['weekend', 'fine', 'excuse', 'much', 'decorating']",5
+ham,Dai i downloaded but there is only exe file which i can only run that exe after installing.,91,"['dai', 'downloaded', 'exe', 'file', 'run', 'exe', 'installing']",7
+ham,Yup ok...,9,"['yup', 'ok']",2
+ham,Want to finally have lunch today?,33,"['want', 'finally', 'lunch', 'today']",4
+ham,O i played smash bros  &lt;#&gt;  religiously.,46,"['played', 'smash', 'bros', 'lt', 'gt', 'religiously']",6
+ham,Hope you are having a good week. Just checking in,49,"['hope', 'good', 'week', 'checking']",4
+ham,What Today-sunday..sunday is holiday..so no work..,50,"['sunday', 'holiday', 'work']",3
+ham,U still going to the mall?,26,"['u', 'still', 'going', 'mall']",4
+spam,URGENT! Your Mobile number has been awarded with a £2000 prize GUARANTEED. Call 09061790126 from land line. Claim 3030. Valid 12hrs only 150ppm,143,"['urgent', 'mobile', 'number', 'awarded', 'prize', 'guaranteed', 'call', 'land', 'line', 'claim', 'valid']",11
+spam,"You have won ?1,000 cash or a ?2,000 prize! To claim, call09050000327",69,"['cash', 'prize', 'claim']",3
+ham,Then mum's repent how?,22,"['mum', 'repent']",2
+ham,Ok. But i finish at 6.,22,"['ok', 'finish']",2
+ham,"Haha... Sounds crazy, dunno can tahan anot...",45,"['haha', 'sound', 'crazy', 'dunno', 'tahan', 'anot']",6
+ham,Boo what time u get out? U were supposed to take me shopping today. :(,70,"['boo', 'time', 'u', 'get', 'u', 'supposed', 'take', 'shopping', 'today']",9
+ham,Ic. There are a lotta childporn cars then.,42,"['ic', 'lotta', 'childporn', 'car']",4
+spam,"Latest Nokia Mobile or iPOD MP3 Player +£400 proze GUARANTEED! Reply with: WIN to 83355 now! Norcorp Ltd.£1,50/Mtmsgrcvd18+",123,"['latest', 'nokia', 'mobile', 'ipod', 'player', 'proze', 'guaranteed', 'reply', 'win', 'norcorp']",10
+ham,You all ready for * big day tomorrow?,37,"['ready', 'big', 'day', 'tomorrow']",4
+ham,No objection. My bf not coming.,31,"['objection', 'bf', 'coming']",3
+ham,Lol well don't do it without me. We could have a big sale together.,67,"['lol', 'well', 'without', 'could', 'big', 'sale', 'together']",7
+ham,K sure am in my relatives home. Sms me de. Pls:-),49,"['k', 'sure', 'relative', 'home', 'sm', 'de', 'pls']",7
+ham,I cant pick the phone right now. Pls send a message,51,"['cant', 'pick', 'phone', 'right', 'pls', 'send', 'message']",7
+ham,Dont kick coco when he's down,29,"['dont', 'kick', 'coco']",3
+spam,Join the UK's horniest Dogging service and u can have sex 2nite!. Just sign up and follow the instructions. Txt ENTRY to 69888 now! Nyt.EC2A.3LP.msg@150p,153,"['join', 'uk', 'horniest', 'dogging', 'service', 'u', 'sex', 'sign', 'follow', 'instruction', 'txt', 'entry']",12
+ham,"And that is the problem. You walk around in ""julianaland"" oblivious to what is going on around you. I say the same things constantly and they go in one ear and out the other while you go off doing whatever you want to do. It's not that you don't know why I'm upset--it's that you don't listen when i tell you WHAT is going to upset me. Then you want to be surprised when I'm mad.",379,"['problem', 'walk', 'around', 'julianaland', 'oblivious', 'going', 'around', 'say', 'thing', 'constantly', 'go', 'one', 'ear', 'go', 'whatever', 'want', 'know', 'upset', 'listen', 'tell', 'going', 'upset', 'want', 'surprised', 'mad']",25
+ham,Dont show yourself. How far. Put new pictures up on facebook.,61,"['dont', 'show', 'far', 'put', 'new', 'picture', 'facebook']",7
+ham,Well. You know what i mean. Texting,35,"['well', 'know', 'mean', 'texting']",4
+ham,Tell me again what your address is,34,"['tell', 'address']",2
+ham,o turns out i had stereo love on mi phone under the unknown album.,66,"['turn', 'stereo', 'love', 'mi', 'phone', 'unknown', 'album']",7
+ham,Aight should I just plan to come up later tonight?,50,"['aight', 'plan', 'come', 'later', 'tonight']",5
+ham,"Evry Emotion dsn't hav Words.Evry Wish dsn't hav Prayrs.. If u Smile,D World is wit u.Othrwise even d Drop of Tear dsn't lik 2 Stay wit u.So b happy.. Good morning, keep smiling:-)",180,"['evry', 'emotion', 'd', 'hav', 'wish', 'd', 'hav', 'prayrs', 'u', 'smile', 'world', 'wit', 'even', 'drop', 'tear', 'd', 'lik', 'stay', 'wit', 'b', 'happy', 'good', 'morning', 'keep', 'smiling']",25
+ham,"Thursday night? Yeah, sure thing, we'll work it out then",56,"['thursday', 'night', 'yeah', 'sure', 'thing', 'work']",6
+ham,"Aight, text me tonight and we'll see what's up",46,"['aight', 'text', 'tonight', 'see']",4
+ham,Check wid corect speling i.e. Sarcasm,37,"['check', 'wid', 'corect', 'speling', 'sarcasm']",5
+ham,Are you still playing with gautham?,35,"['still', 'playing', 'gautham']",3
+ham,on hen night. Going with a swing,32,"['hen', 'night', 'going', 'swing']",4
+spam,URGENT! Your Mobile number has been awarded a <UKP>2000 prize GUARANTEED. Call 09061790125 from landline. Claim 3030. Valid 12hrs only 150ppm,141,"['urgent', 'mobile', 'number', 'awarded', 'ukp', 'prize', 'guaranteed', 'call', 'landline', 'claim', 'valid']",11
+ham,Its not that time of the month nor mid of the time?,51,"['time', 'month', 'mid', 'time']",4
+spam,"Urgent! Please call 0906346330. Your ABTA complimentary 4* Spanish Holiday or £10,000 cash await collection SAE T&Cs BOX 47 PO19 2EZ 150ppm 18+",143,"['urgent', 'please', 'call', 'abta', 'complimentary', 'spanish', 'holiday', 'cash', 'await', 'collection', 'sae', 'c', 'box']",13
+ham,U still painting ur wall?,25,"['u', 'still', 'painting', 'ur', 'wall']",5
+ham,"Also north carolina and texas atm, you would just go to the gre site and pay for the test results to be sent.",109,"['also', 'north', 'carolina', 'texas', 'atm', 'would', 'go', 'gre', 'site', 'pay', 'test', 'result', 'sent']",13
+ham,Somebody set up a website where you can play hold em using eve online spacebucks,80,"['somebody', 'set', 'website', 'play', 'hold', 'em', 'using', 'eve', 'online', 'spacebucks']",10
+ham,Ok...,5,['ok'],1
+ham," says that he's quitting at least5times a day so i wudn't take much notice of that. Nah, she didn't mind. Are you gonna see him again? Do you want to come to taunton tonight? U can tell me all about !",200,"['say', 'quitting', 'day', 'wud', 'take', 'much', 'notice', 'nah', 'mind', 'gon', 'na', 'see', 'want', 'come', 'taunton', 'tonight', 'u', 'tell']",18
+spam,FreeMsg: Fancy a flirt? Reply DATE now & join the UKs fastest growing mobile dating service. Msgs rcvd just 25p to optout txt stop to 83021. Reply DATE now!,156,"['freemsg', 'fancy', 'flirt', 'reply', 'date', 'join', 'uk', 'fastest', 'growing', 'mobile', 'dating', 'service', 'msg', 'rcvd', 'optout', 'txt', 'stop', 'reply', 'date']",19
+ham,Yeah it's jus rite...,21,"['yeah', 'jus', 'rite']",3
+ham,", ,  and  picking them up from various points | going 2 yeovil | and they will do the motor project 4 3 hours | and then u take them home. || 12 2 5.30 max. || Very easy",169,"['picking', 'various', 'point', 'going', 'yeovil', 'motor', 'project', 'hour', 'u', 'take', 'home', 'max', 'easy']",13
+ham,Yeah my usual guy's out of town but there're definitely people around I know,76,"['yeah', 'usual', 'guy', 'town', 'definitely', 'people', 'around', 'know']",8
+ham,Wat would u like 4 ur birthday?,31,"['wat', 'would', 'u', 'like', 'ur', 'birthday']",6
+ham,Yes ammae....life takes lot of turns you can only sit and try to hold the steering...,85,"['yes', 'ammae', 'life', 'take', 'lot', 'turn', 'sit', 'try', 'hold', 'steering']",10
+ham,You're not sure that I'm not trying to make xavier smoke because I don't want to smoke after being told I smoke too much?,121,"['sure', 'trying', 'make', 'xavier', 'smoke', 'want', 'smoke', 'told', 'smoke', 'much']",10
+ham,I'm in a movie... Collect car oredi...,38,"['movie', 'collect', 'car', 'oredi']",4
+ham,It certainly puts things into perspective when something like this happens,74,"['certainly', 'put', 'thing', 'perspective', 'something', 'like', 'happens']",7
+ham,"Nah I don't think he goes to usf, he lives around here though",61,"['nah', 'think', 'go', 'usf', 'life', 'around', 'though']",7
+ham,Have you finished work yet? :),30,"['finished', 'work', 'yet']",3
+ham,At home by the way,18,"['home', 'way']",2
+ham,Can help u swoop by picking u up from wherever ur other birds r meeting if u want.,82,"['help', 'u', 'swoop', 'picking', 'u', 'wherever', 'ur', 'bird', 'r', 'meeting', 'u', 'want']",12
+ham,No da. I am happy that we sit together na,41,"['da', 'happy', 'sit', 'together', 'na']",5
+ham,Its sarcasm.. .nt scarcasim,27,"['sarcasm', 'scarcasim']",2
+ham,Waaaat?? Lololo ok next time then!,34,"['waaaat', 'lololo', 'ok', 'next', 'time']",5
+ham,Great. Have a safe trip. Dont panic surrender all.,50,"['great', 'safe', 'trip', 'dont', 'panic', 'surrender']",6
+ham,Hey leave it. not a big deal:-) take care.,42,"['hey', 'leave', 'big', 'deal', 'take', 'care']",6
+ham,"Sorry,in meeting I'll call later",32,"['sorry', 'meeting', 'call', 'later']",4
+ham,Ok try to do week end course in coimbatore.,43,"['ok', 'try', 'week', 'end', 'course', 'coimbatore']",6
+ham,"Hello, my boytoy! I made it home and my constant thought is of you, my love. I hope your having a nice visit but I can't wait till you come home to me ...*kiss*",160,"['hello', 'boytoy', 'made', 'home', 'constant', 'thought', 'love', 'hope', 'nice', 'visit', 'ca', 'wait', 'till', 'come', 'home', 'kiss']",16
+ham,Yup... How ü noe leh...,23,"['yup', 'ü', 'noe', 'leh']",4
+ham,Gd luck 4 ur exams :-),22,"['gd', 'luck', 'ur', 'exam']",4
+spam,You have WON a guaranteed £1000 cash or a £2000 prize. To claim yr prize call our customer service representative on 08714712394 between 10am-7pm,145,"['guaranteed', 'cash', 'prize', 'claim', 'yr', 'prize', 'call', 'customer', 'service', 'representative']",10
+ham,(That said can you text him one more time?),43,"['said', 'text', 'one', 'time']",4
+ham,"Erm... Woodland avenue somewhere. Do you get the parish magazine, his telephone number will be in there.",104,"['erm', 'woodland', 'avenue', 'somewhere', 'get', 'parish', 'magazine', 'telephone', 'number']",9
+ham,Ok. She'll be ok. I guess,25,"['ok', 'guess']",2
+ham,Should I be stalking u?,23,"['stalking', 'u']",2
+ham,But i have to. I like to have love and arrange.,47,"['like', 'love', 'arrange']",3
+ham,Well you told others you'd marry them...,40,"['well', 'told', 'others', 'marry']",4
+ham,He neva grumble but i sad lor... Hee... Buy tmr lor aft lunch. But we still meetin 4 lunch tmr a not. Neva hear fr them lei. Ü got a lot of work ar?,148,"['neva', 'grumble', 'sad', 'lor', 'hee', 'buy', 'tmr', 'lor', 'aft', 'lunch', 'still', 'meetin', 'lunch', 'tmr', 'neva', 'hear', 'fr', 'lei', 'ü', 'got', 'lot', 'work', 'ar']",23
+ham,You are a great role model. You are giving so much and i really wish each day for a miracle but God as a reason for everything and i must say i wish i knew why but i dont. I've looked up to you since i was young and i still do. Have a great day.,245,"['great', 'role', 'model', 'giving', 'much', 'really', 'wish', 'day', 'miracle', 'god', 'reason', 'everything', 'must', 'say', 'wish', 'knew', 'dont', 'looked', 'since', 'young', 'still', 'great', 'day']",23
+ham,"Until 545 lor... Ya, can go 4 dinner together...",48,"['lor', 'ya', 'go', 'dinner', 'together']",5
+ham,Went to pay rent. So i had to go to the bank to authorise the payment.,70,"['went', 'pay', 'rent', 'go', 'bank', 'authorise', 'payment']",7
+ham,You still around? I could use a half-8th,40,"['still', 'around', 'could', 'use']",4
+ham,"Dont search love, let love find U. Thats why its called falling in love, bcoz U dont force yourself, U just fall and U know there is smeone to hold U... BSLVYL",159,"['dont', 'search', 'love', 'let', 'love', 'find', 'thats', 'called', 'falling', 'love', 'bcoz', 'u', 'dont', 'force', 'u', 'fall', 'u', 'know', 'smeone', 'hold', 'u', 'bslvyl']",22
+ham,I want  &lt;#&gt;  rs da:)do you have it?,41,"['want', 'lt', 'gt', 'r', 'da']",5
+ham,"Madam,regret disturbance.might receive a reference check from DLF Premarica.kindly be informed.Rgds,Rakhesh,Kerala.",115,"['madam', 'regret', 'receive', 'reference', 'check', 'dlf', 'rakhesh', 'kerala']",8
+ham,Hiya. How was last night? I've been naughty and bought myself clothes and very little ... Ready for more shopping tho! What kind of time do you wanna meet?,155,"['hiya', 'last', 'night', 'naughty', 'bought', 'clothes', 'little', 'ready', 'shopping', 'tho', 'kind', 'time', 'wan', 'na', 'meet']",15
+spam,Am new 2 club & dont fink we met yet Will B gr8 2 C U Please leave msg 2day wiv ur area 09099726553 reply promised CARLIE x Calls£1/minMobsmore LKPOBOX177HP51FL,160,"['new', 'club', 'dont', 'fink', 'met', 'yet', 'b', 'c', 'u', 'please', 'leave', 'msg', 'wiv', 'ur', 'area', 'reply', 'promised', 'carlie', 'x']",19
+ham,Don know. I did't msg him recently.,35,"['know', 'msg', 'recently']",3
+ham,Haha... Really oh no... How? Then will they deduct your lesson tmr?,67,"['haha', 'really', 'oh', 'deduct', 'lesson', 'tmr']",6
+ham,"Yeah go on then, bored and depressed sittin waitin for phone to ring... Hope the wind drops though, scary",105,"['yeah', 'go', 'bored', 'depressed', 'sittin', 'waitin', 'phone', 'ring', 'hope', 'wind', 'drop', 'though', 'scary']",13
+ham,Joy's father is John. Then John is the ____ of Joy's father. If u ans ths you hav  &lt;#&gt;  IQ. Tis s IAS question try to answer.,131,"['joy', 'father', 'john', 'john', 'joy', 'father', 'u', 'an', 'th', 'hav', 'lt', 'gt', 'iq', 'ti', 'ia', 'question', 'try', 'answer']",18
+spam,December only! Had your mobile 11mths+? You are entitled to update to the latest colour camera mobile for Free! Call The Mobile Update Co FREE on 08002986906 ,158,"['december', 'mobile', 'entitled', 'update', 'latest', 'colour', 'camera', 'mobile', 'free', 'call', 'mobile', 'update', 'co', 'free']",14
+ham,Still otside le..u come 2morrow maga..,38,"['still', 'otside', 'le', 'u', 'come', 'maga']",6
+ham,Please ask mummy to call father,31,"['please', 'ask', 'mummy', 'call', 'father']",5
+spam,Please CALL 08712402972 immediately as there is an urgent message waiting for you,81,"['please', 'call', 'immediately', 'urgent', 'message', 'waiting']",6
+ham,Anyway i'm going shopping on my own now. Cos my sis not done yet. Dun disturb u liao.,85,"['anyway', 'going', 'shopping', 'co', 'si', 'done', 'yet', 'dun', 'disturb', 'u', 'liao']",11
+ham,If you r @ home then come down within 5 min,43,"['r', 'home', 'come', 'within', 'min']",5
+ham,"Well am officially in a philosophical hole, so if u wanna call am at home ready to be saved!",92,"['well', 'officially', 'philosophical', 'hole', 'u', 'wan', 'na', 'call', 'home', 'ready', 'saved']",11
+ham,Thats cool. I want to please you...,35,"['thats', 'cool', 'want', 'please']",4
+spam,Mobile Club: Choose any of the top quality items for your mobile. 7cfca1a,73,"['mobile', 'club', 'choose', 'top', 'quality', 'item', 'mobile']",7
+ham,Wat time ü wan today?,21,"['wat', 'time', 'ü', 'wan', 'today']",5
+spam,"Xmas & New Years Eve tickets are now on sale from the club, during the day from 10am till 8pm, and on Thurs, Fri & Sat night this week. They're selling fast!",157,"['xmas', 'new', 'year', 'eve', 'ticket', 'sale', 'club', 'day', 'till', 'thurs', 'fri', 'sat', 'night', 'week', 'selling', 'fast']",16
+ham,In xam hall boy asked girl Tell me the starting term for dis answer I can den manage on my own After lot of hesitation n lookin around silently she said THE! intha ponnungale ipaditan;),185,"['xam', 'hall', 'boy', 'asked', 'girl', 'tell', 'starting', 'term', 'dis', 'answer', 'den', 'manage', 'lot', 'hesitation', 'n', 'lookin', 'around', 'silently', 'said', 'intha', 'ponnungale', 'ipaditan']",22
+ham,None of that's happening til you get here though,48,"['none', 'happening', 'til', 'get', 'though']",5
+ham,Then any special there?,23,['special'],1
+ham,You do got a shitload of diamonds though,40,"['got', 'shitload', 'diamond', 'though']",4
+ham,If you still havent collected the dough pls let me know so i can go to the place i sent it to get the control number,116,"['still', 'havent', 'collected', 'dough', 'pls', 'let', 'know', 'go', 'place', 'sent', 'get', 'control', 'number']",13
+ham,O shore are you takin the bus,29,"['shore', 'takin', 'bus']",3
+ham,"Turns out my friends are staying for the whole show and won't be back til ~ &lt;#&gt; , so feel free to go ahead and smoke that $ &lt;#&gt;  worth",146,"['turn', 'friend', 'staying', 'whole', 'show', 'wo', 'back', 'til', 'lt', 'gt', 'feel', 'free', 'go', 'ahead', 'smoke', 'lt', 'gt', 'worth']",18
+ham,So i asked how's anthony. Dad. And your bf,42,"['asked', 'anthony', 'dad', 'bf']",4
+ham,Spending new years with my brother and his family. Lets plan to meet next week. Are you ready to be spoiled? :),111,"['spending', 'new', 'year', 'brother', 'family', 'let', 'plan', 'meet', 'next', 'week', 'ready', 'spoiled']",12
+ham,Where are you ? You said you would be here when I woke ... :-(,62,"['said', 'would', 'woke']",3
+ham,Dont flatter yourself... Tell that man of mine two pints of carlin in ten minutes please.... ,93,"['dont', 'flatter', 'tell', 'man', 'mine', 'two', 'pint', 'carlin', 'ten', 'minute', 'please']",11
+ham,What to think no one saying clearly. Ok leave no need to ask her. I will go if she come or not,94,"['think', 'one', 'saying', 'clearly', 'ok', 'leave', 'need', 'ask', 'go', 'come']",10
+ham,"Dizzamn, aight I'll ask my suitemates when I get back",53,"['dizzamn', 'aight', 'ask', 'suitemates', 'get', 'back']",6
+ham,I see the letter B on my car,28,"['see', 'letter', 'b', 'car']",4
+ham,What happened to our yo date?,29,"['happened', 'yo', 'date']",3
+ham,Wah lucky man... Then can save money... Hee...,46,"['wah', 'lucky', 'man', 'save', 'money', 'hee']",6
+ham,Thanx 4 sending me home...,26,"['thanx', 'sending', 'home']",3
+ham,If you're not in my car in an hour and a half I'm going apeshit,63,"['car', 'hour', 'half', 'going', 'apeshit']",5
+ham,I'm in chennai velachery:),26,"['chennai', 'velachery']",2
+ham,Ok i juz receive..,18,"['ok', 'juz', 'receive']",3
+ham,Oh dang! I didn't mean o send that to you! Lol!,47,"['oh', 'dang', 'mean', 'send', 'lol']",5
+ham,Are you going to write ccna exam this week??,44,"['going', 'write', 'ccna', 'exam', 'week']",5
+spam,You have 1 new voicemail. Please call 08719181513.,50,"['new', 'voicemail', 'please', 'call']",4
+ham,Love you aathi..love u lot..,28,"['love', 'aathi', 'love', 'u', 'lot']",5
+spam,ROMCAPspam Everyone around should be responding well to your presence since you are so warm and outgoing. You are bringing in a real breath of sunshine.,152,"['romcapspam', 'everyone', 'around', 'responding', 'well', 'presence', 'since', 'warm', 'outgoing', 'bringing', 'real', 'breath', 'sunshine']",13
+spam,Free msg: Single? Find a partner in your area! 1000s of real people are waiting to chat now!Send CHAT to 62220Cncl send STOPCS 08717890890£1.50 per msg,151,"['free', 'msg', 'single', 'find', 'partner', 'area', 'real', 'people', 'waiting', 'chat', 'send', 'chat', 'send', 'stopcs', 'per', 'msg']",16
+spam,URGENT! Your Mobile number has been awarded with a £2000 Bonus Caller Prize. Call 09058095201 from land line. Valid 12hrs only,126,"['urgent', 'mobile', 'number', 'awarded', 'bonus', 'caller', 'prize', 'call', 'land', 'line', 'valid']",11
+ham,I am on the way to ur home,26,"['way', 'ur', 'home']",3
+ham,I dont thnk its a wrong calling between us,42,"['dont', 'thnk', 'wrong', 'calling', 'u']",5
+ham,Today is ACCEPT DAY..U Accept me as? Brother Sister Lover Dear1 Best1 Clos1 Lvblefrnd Jstfrnd Cutefrnd Lifpartnr Belovd Swtheart Bstfrnd No rply means enemy,156,"['today', 'accept', 'day', 'u', 'accept', 'brother', 'sister', 'lover', 'lvblefrnd', 'jstfrnd', 'cutefrnd', 'lifpartnr', 'belovd', 'swtheart', 'bstfrnd', 'rply', 'mean', 'enemy']",18
