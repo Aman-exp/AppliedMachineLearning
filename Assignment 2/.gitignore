@@ -5,3 +5,5 @@ zone_identifier.txt
 **/Zone.Identifier
 
 myenv/
+
+.gitignore:Zone.Identifier
