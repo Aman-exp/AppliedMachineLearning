@@ -1,0 +1,7 @@
+# Ignore any file named zone_identifier.txt
+zone_identifier.txt
+
+# Ignore Zone.Identifier files (used by Windows to mark downloaded files)
+**/Zone.Identifier
+
+.venv/
