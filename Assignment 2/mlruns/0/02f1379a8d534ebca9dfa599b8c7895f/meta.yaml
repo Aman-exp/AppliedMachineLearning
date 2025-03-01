@@ -1,0 +1,15 @@
+artifact_uri: file:///root/AppliedMachineLearning/Assignment%202/mlruns/0/02f1379a8d534ebca9dfa599b8c7895f/artifacts
+end_time: 1740860822523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02f1379a8d534ebca9dfa599b8c7895f
+run_name: mercurial-snipe-226
+run_uuid: 02f1379a8d534ebca9dfa599b8c7895f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740860819464
+status: 3
+tags: []
+user_id: root

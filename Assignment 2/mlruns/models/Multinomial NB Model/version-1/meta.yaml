@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740860822520
+current_stage: None
+description: null
+last_updated_timestamp: 1740860822520
+name: Multinomial NB Model
+run_id: 02f1379a8d534ebca9dfa599b8c7895f
+run_link: null
+source: file:///root/AppliedMachineLearning/Assignment%202/mlruns/0/02f1379a8d534ebca9dfa599b8c7895f/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///root/AppliedMachineLearning/Assignment%202/mlruns/0/02f1379a8d534ebca9dfa599b8c7895f/artifacts/sklearn-model
+user_id: null
+version: 1

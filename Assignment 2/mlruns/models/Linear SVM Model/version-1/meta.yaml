@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740861236657
+current_stage: None
+description: null
+last_updated_timestamp: 1740861236657
+name: Linear SVM Model
+run_id: c587e24e5ff647f085a44b018dfa45b6
+run_link: null
+source: file:///root/AppliedMachineLearning/Assignment%202/mlruns/0/c587e24e5ff647f085a44b018dfa45b6/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///root/AppliedMachineLearning/Assignment%202/mlruns/0/c587e24e5ff647f085a44b018dfa45b6/artifacts/sklearn-model
+user_id: null
+version: 1

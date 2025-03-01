@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740861389912
+current_stage: None
+description: null
+last_updated_timestamp: 1740861389912
+name: Random Forest Model
+run_id: a32f28747efe4705b31f285aadcfb6d5
+run_link: null
+source: file:///root/AppliedMachineLearning/Assignment%202/mlruns/0/a32f28747efe4705b31f285aadcfb6d5/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///root/AppliedMachineLearning/Assignment%202/mlruns/0/a32f28747efe4705b31f285aadcfb6d5/artifacts/sklearn-model
+user_id: null
+version: 1
