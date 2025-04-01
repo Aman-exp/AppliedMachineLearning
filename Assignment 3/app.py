@@ -3,11 +3,12 @@ import joblib
 from score import score
 import logging
 
+# Initialize Flask app
+app = Flask(__name__)
+
 # Configure logging
 logging.basicConfig(level=logging.DEBUG,  # This allows you to log debug messages
                     format='%(asctime)s - %(levelname)s - %(message)s')
-
-app = Flask(__name__)
 
 # Load pre-trained model and vectorizer
 try:
@@ -17,6 +18,10 @@ try:
 except FileNotFoundError as e:
     logging.error(f"Error loading model or vectorizer: {str(e)}")
     raise e
+
+@app.route('/')
+def home():
+    return "Welcome to the Flask app! Please POST to /score for predictions."
 
 @app.route('/score', methods=['POST'])
 def score_endpoint():
@@ -34,8 +39,10 @@ def score_endpoint():
         # Get the prediction and propensity using the score function
         prediction, propensity = score(text, model, vectorizer, threshold=0.5)
 
-        # Return the response in JSON format
+        # Log the prediction and propensity values
         logging.info(f"Prediction: {prediction}, Propensity: {propensity}")
+
+        # Return the response in JSON format
         return jsonify({
             'prediction': prediction,
             'propensity': propensity
@@ -47,4 +54,5 @@ def score_endpoint():
         return jsonify({'error': 'An error occurred while processing your request'}), 500
 
 if __name__ == '__main__':
-    app.run(port=5000, debug=True)  
+    # Run the Flask app with debug mode enabled
+    app.run(port=5000, debug=True)
