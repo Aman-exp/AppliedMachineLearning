@@ -1,17 +1,6 @@
-============================= test session starts ==============================
-platform linux -- Python 3.12.3, pytest-8.3.5, pluggy-1.5.0
-rootdir: /root/AppliedMachineLearning/Assignment 3
-plugins: cov-6.1.0
-collected 1 items
-
-test.py .                                                                [100%]
-
----------- coverage: platform linux, python 3.12.3-final-0 -----------
-Name      Stmts   Miss  Cover   Missing
----------------------------------------
-test.py      26      0   100%
----------------------------------------
-TOTAL        26      0   100%
-
-
-======================== 1 passed in 2.56s =========================
+Name       Stmts   Miss  Cover   Missing
+----------------------------------------
+score.py       7      0   100%
+test.py       89     10    89%   103-105, 111-112, 143-145, 151-152
+----------------------------------------
+TOTAL         96     10    90%
