@@ -1,29 +1,29 @@
 #!/bin/bash
 
-# Get the current branch name
+# Retrieve the name of the current branch
 current_branch=$(git symbolic-ref --short HEAD)
 
-# Only run tests if committing to main branch
+# Only proceed with tests if committing to the main branch
 if [ "$current_branch" = "main" ]; then
-    echo "Committing to main branch - running tests..."
+    echo "You're committing to the main branch - executing tests..."
     
     # Run the tests
     cd assignment_4
     uv run python -m pytest test.py
     cd ..
     
-    # Capture the exit code
+    # Capture the exit status
     test_exit_code=$?
     
-    # If tests failed, prevent the commit
+    # If the tests fail, stop the commit
     if [ $test_exit_code -ne 0 ]; then
-        echo "❌ Tests failed! Commit aborted."
-        echo "Please fix the failing tests before committing to main."
+        echo "❌ Test execution failed! Commit is cancelled."
+        echo "Please address the issues before committing to the main branch."
         exit 1
     else
-        echo "✅ All tests passed!"
+        echo "All tests passed successfully!"
     fi
 fi
 
-# Allow the commit to proceed
-exit 0 
+# Permit the commit to continue
+exit 0
