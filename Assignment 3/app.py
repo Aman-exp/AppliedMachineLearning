@@ -7,7 +7,7 @@ import logging
 app = Flask(__name__)
 
 # Configure logging
-logging.basicConfig(level=logging.DEBUG,  # This allows you to log debug messages
+logging.basicConfig(level=logging.DEBUG, 
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Load pre-trained model and vectorizer
@@ -26,7 +26,6 @@ def home():
 @app.route('/score', methods=['POST'])
 def score_endpoint():
     try:
-        # Get JSON data from the request
         data = request.get_json()
 
         # Check if 'text' is provided in the request
@@ -54,5 +53,4 @@ def score_endpoint():
         return jsonify({'error': 'An error occurred while processing your request'}), 500
 
 if __name__ == '__main__':
-    # Run the Flask app with debug mode enabled
     app.run(port=5000, debug=True)
