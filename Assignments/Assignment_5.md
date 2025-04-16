@@ -5,11 +5,11 @@
 - Download about 100 images of chickens and 100 images of ducks from the internet
 - In a google colab notebook, fine-tune a pre-trained convolutional neural network to classify duck vs chicken and output the classification report
 
-- [https://www.analyticsvidhya.com/blog/2021/07/step-by-step-guide-for-image-classification-on-custom-datasets/](https://www.analyticsvidhya.com/blog/2021/07/step-by-step-guide-for-image-classification-on-custom-datasets/)
+[https://www.analyticsvidhya.com/blog/2021/07/step-by-step-guide-for-image-classification-on-custom-datasets/](https://www.analyticsvidhya.com/blog/2021/07/step-by-step-guide-for-image-classification-on-custom-datasets/)
 
-- [https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+[https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 
-- [https://www.learnpytorch.io/](https://www.learnpytorch.io/)
+[https://www.learnpytorch.io/](https://www.learnpytorch.io/)
 
 ## 2. Transfer Learning for text data using Transformer
 
