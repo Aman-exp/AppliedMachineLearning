@@ -11,18 +11,9 @@
 
 - [https://www.learnpytorch.io/](https://www.learnpytorch.io/)
 
-- build the docker image using Dockerfile
-- run the docker container with appropriate port bindings
-- in test.py write test_docker(..) function which does the following
-    - launches the docker container using commandline (e.g. os.sys(..), docker build and docker run)
-    - sends a request to the localhost endpoint /score (e.g. using requests library)
-    - for a sample text
-    - checks if the response is as expected
-    - close the docker container
-In coverage.txt, produce the coverage report using pytest for the tests in test.py
 ## 2. Transfer Learning for text data using Transformer
 
-- Download the sentiment analysis dataset from 
+- Download the sentiment analysis dataset from
 [https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset)
 - Build a sentiment analysis classifier to classify the sentiment into positive, neutral, and negative by fine-tuning a pre-trained transformer model and print your classification report
 
