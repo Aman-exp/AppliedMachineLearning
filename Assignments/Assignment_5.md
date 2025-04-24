@@ -1,4 +1,4 @@
-# Assignment 4: Assignment 5: Transfer Learning (due date 17 April 2025) [extended to 19 April 2025]
+# Assignment 5: Transfer Learning (due date 17 April 2025) [extended to 19 April 2025]
 
 ## 1. Transfer Learning for image data using CNN
 
